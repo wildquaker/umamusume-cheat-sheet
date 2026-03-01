@@ -1,0 +1,32 @@
+version: 2
+
+updates:
+  - package-ecosystem: composer
+    directory: /
+    schedule:
+      interval: weekly
+    target-branch: master
+    labels:
+      - dependencies
+      - php
+    open-pull-requests-limit: 10
+
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly
+    target-branch: master
+    labels:
+      - dependencies
+      - javascript
+    open-pull-requests-limit: 10
+
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+    target-branch: master
+    labels:
+      - dependencies
+      - ci
+    open-pull-requests-limit: 5

@@ -1,0 +1,67 @@
+[
+    {
+        "year": "Junior Year",
+        "races": [
+            {
+                "name": "Hopeful Stakes",
+                "time": "Late December"
+            }
+        ]
+    },
+    {
+        "year": "Classic Year",
+        "races": [
+            {
+                "name": "Satsuki Sho",
+                "time": "Early April"
+            },
+            {
+                "name": "Tokyo Yushun",
+                "time": "Late May"
+            },
+            {
+                "name": "Kikuka Sho / Shuka Sho",
+                "time": "Late October"
+            },
+            {
+                "name": "Queen Elizabeth II Cup",
+                "time": "Early November"
+            }
+        ]
+    },
+    {
+        "year": "Senior Year",
+        "races": [
+            {
+                "name": "Osaka Hai",
+                "time": "Late March"
+            },
+            {
+                "name": "Tenno Sho Spring",
+                "time": "Late April"
+            },
+            {
+                "name": "Victoria Mile",
+                "time": "Early May",
+                "optional": true,
+                "note": "Alternative to Tenno Sho Spring"
+            },
+            {
+                "name": "Takarazuka Kinen",
+                "time": "Late June"
+            },
+            {
+                "name": "Tenno Sho Autumn",
+                "time": "Late October"
+            },
+            {
+                "name": "Japan Cup",
+                "time": "Late November"
+            },
+            {
+                "name": "Arima Kinen / Tokyo Daishoten",
+                "time": "Late December"
+            }
+        ]
+    }
+]

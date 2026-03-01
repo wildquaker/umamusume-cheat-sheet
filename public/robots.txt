@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://umamusume.wildquaker.com/sitemap.xml
