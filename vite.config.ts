@@ -20,9 +20,9 @@ export default defineConfig({
                 },
             },
         }),
-        wayfinder({
+        ...(!process.env.CI ? [wayfinder({
             formVariants: true,
-        }),
+        })] : []),
     ],
     server: {
         host: '0.0.0.0',

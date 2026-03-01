@@ -30,7 +30,7 @@ RUN npm ci
 COPY . .
 
 RUN composer run-script post-autoload-dump 2>/dev/null || true
-RUN npm run build
+RUN CI=true npm run build
 
 
 FROM php:8.5-fpm-alpine
