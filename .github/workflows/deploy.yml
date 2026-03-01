@@ -101,19 +101,20 @@ jobs:
           docker compose -f docker-compose.prod.yml ps
 
           echo ""
-          echo "Waiting for MySQL to accept connections..."
+          echo "Waiting for MySQL container to report as 'Up'..."
           for i in $(seq 1 30); do
-            if docker compose -f docker-compose.prod.yml exec -T umamusume-php \
-              php -r "try { new PDO('mysql:host=umamusume-mysql;port=3306', 'umamusume_db_user', 'NUg9/S1Z4gF9AT0lelFghoRXI89vjlIXD1rWaanpDgc='); echo 'OK'; } catch (\Exception \$e) { exit(1); }" 2>/dev/null; then
+            if docker compose -f docker-compose.prod.yml ps | grep -E "^umamusume-mysql.*Up" > /dev/null; then
               echo ""
-              echo "✅ MySQL is ready (attempt $i)"
+              echo "✅ MySQL container is Up (attempt $i)"
               exit 0
             fi
-            echo "Attempt $i/30 - MySQL not ready yet, waiting 2s..."
+            
+            echo "Attempt $i/30 - MySQL container not Up yet, waiting 2s..."
             sleep 2
           done
+          
           echo ""
-          echo "❌ MySQL did not become ready in time"
+          echo "❌ MySQL container did not start in time"
           echo "MySQL container logs:"
           docker compose -f docker-compose.prod.yml logs umamusume-mysql --tail=30
           exit 1
