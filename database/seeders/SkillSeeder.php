@@ -27,7 +27,7 @@ class SkillSeeder extends Seeder
         foreach ($data as $skill) {
             if (isset($skill['Skill'], $skill['Rating'], $skill['Style'], $skill['Distance'])) {               
                 DB::table('skills')->updateOrInsert(
-                    ['name' => $skill['Skill']], // Map JSON 'Skill' to DB 'name'
+                    ['name' => $skill['Skill']],
                     [
                         'rating'     => $skill['Rating'],
                         'style'      => $skill['Style'],
