@@ -1,5 +1,10 @@
 [
     {
+        "name": "Admire Vega",
+        "image": "images/characters/admire_vega.png",
+        "guide": "images/guides/admire_vega.jpg"
+    },
+    {
         "name": "Agnes Digital",
         "image": "images/characters/agnes_digital.png",
         "guide": "images/guides/agnes_digital.jpg"
