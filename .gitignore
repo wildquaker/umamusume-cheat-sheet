@@ -8,10 +8,7 @@
 /storage/*.key
 /storage/pail
 /storage/logs/
-/storage/framework/cache/data/
-/storage/framework/sessions/
 /storage/framework/testing/
-/storage/framework/views/
 /resources/js/actions
 /resources/js/routes
 /resources/js/wayfinder
