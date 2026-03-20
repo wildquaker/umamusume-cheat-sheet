@@ -3,7 +3,7 @@ services:
     build:
       context: .
       dockerfile: docker/Dockerfile
-    image: umamusume-cheat-sheet-v2:latest
+    image: umamusume-cheat-sheet:latest
     container_name: umamusume-app
     restart: unless-stopped
     environment:

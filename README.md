@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Uma Musume Cheat Sheet
 
-## Getting Started
+A comprehensive reference tool and database for Uma Musume: Pretty Derby, built with Next.js, Tailwind CSS, and React.
 
-First, run the development server:
+This project provides quick access to character builds, skills, races, and other helpful resources for trainers.
+
+## 🛠️ Tech Stack
+
+- **Framework:** [Next.js](https://nextjs.org/) (App Router)
+- **Styling:** [Tailwind CSS v4](https://tailwindcss.com/)
+- **Language:** TypeScript
+- **Deployment:** Docker & Nginx
+
+## 🚀 Getting Started (Development)
+
+First, install the dependencies. The project generally recommends `pnpm`, but you can use `npm` or `yarn`:
 
 ```bash
-npm run dev
+pnpm install
 # or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then, run the development server:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+pnpm dev
+# or
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result. You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-## Learn More
+## 🐳 Running with Docker (Production)
 
-To learn more about Next.js, take a look at the following resources:
+This project is configured for easy production deployments using Docker and Docker Compose. It utilizes Next.js's native `standalone` output mode to drastically reduce image size and improve reliability.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+To spin up the production build (which includes the Next.js app and an Nginx reverse proxy):
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```bash
+# 1. Build the Docker images
+docker compose build
 
-## Deploy on Vercel
+# 2. Start the containers in the background
+docker compose up -d
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The app will be accessible at [http://localhost](http://localhost).
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+To stop the containers:
+
+```bash
+docker compose down
+```
+
+### Note on Data Files
+
+If you modify any of the JSON data files in `app/data/` (such as `characters.json` or `skills.json`), you will need to rebuild the Docker image (`docker compose build`) for the changes to reflect in the production container!
