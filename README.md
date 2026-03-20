@@ -52,7 +52,3 @@ To stop the containers:
 ```bash
 docker compose down
 ```
-
-### Note on Data Files
-
-If you modify any of the JSON data files in `app/data/` (such as `characters.json` or `skills.json`), you will need to rebuild the Docker image (`docker compose build`) for the changes to reflect in the production container!

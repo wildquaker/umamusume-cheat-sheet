@@ -11,6 +11,8 @@ services:
       - PORT=3000
     expose:
       - "3000"
+    volumes:
+      - ./app/data:/app/app/data:ro
 
   umamusume-nginx:
     image: nginx:1.29.6-alpine-slim
