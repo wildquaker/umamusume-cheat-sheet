@@ -1,0 +1,1814 @@
+[
+    {
+        "Skill": "Front Runner Corners ◯",
+        "Rating": "Best",
+        "Style": "Front Runner",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Front Runner Straightaways ◯",
+        "Rating": "Best",
+        "Style": "Front Runner",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Pace Chaser Corners ◯",
+        "Rating": "Best",
+        "Style": "Pace Chaser",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Pace Chaser Straightaways ◯",
+        "Rating": "Best",
+        "Style": "Pace Chaser",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Late Surger Corners ◯",
+        "Rating": "Best",
+        "Style": "Late Surger",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Late Surger Straightaways ◯",
+        "Rating": "Best",
+        "Style": "Late Surger",
+        "Distance": "All"
+    },
+    {
+        "Skill": "End Closer Corners ◯",
+        "Rating": "Best",
+        "Style": "End Closer",
+        "Distance": "All"
+    },
+    {
+        "Skill": "End Closer Straightaways ◯",
+        "Rating": "Best",
+        "Style": "End Closer",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Sprint Corners ◯",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "Sprint"
+    },
+    {
+        "Skill": "Sprint Straightaways ◯",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "Sprint"
+    },
+    {
+        "Skill": "Mile Corners ◯",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "Mile"
+    },
+    {
+        "Skill": "Mile Straightaways ◯",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "Mile"
+    },
+    {
+        "Skill": "Medium Corners ◯",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "Medium"
+    },
+    {
+        "Skill": "Medium Straightaways ◯",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "Medium"
+    },
+    {
+        "Skill": "Long Corners ◯",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "Long"
+    },
+    {
+        "Skill": "Long Straightaways ◯",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "Long"
+    },
+    {
+        "Skill": "Uma Stan",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Super Stan",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Tail Held High",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Slipstream",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Playtime's Over!",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Burning Spirit GUTS",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Fast-Paced",
+        "Rating": "Best",
+        "Style": "Front Runner",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Escape Artist",
+        "Rating": "Best",
+        "Style": "Front Runner",
+        "Distance": "All"
+    },
+    {
+        "Skill": "1,500,000 CC",
+        "Rating": "Best",
+        "Style": "Late Surger",
+        "Distance": "All"
+    },
+    {
+        "Skill": "15,000,000 CC",
+        "Rating": "Best",
+        "Style": "Late Surger",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Mile Maven",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "Mile"
+    },
+    {
+        "Skill": "Unyielding Spirit",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "Mile"
+    },
+    {
+        "Skill": "Big-Sisterly",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "Mile"
+    },
+    {
+        "Skill": "Corner Recovery ◯",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Swinging Maestro",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Preferred Position",
+        "Rating": "Best",
+        "Style": "Pace Chaser",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Race Planner",
+        "Rating": "Best",
+        "Style": "Pace Chaser",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Hydrate",
+        "Rating": "Best",
+        "Style": "Pace Chaser",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Gourmand",
+        "Rating": "Best",
+        "Style": "Pace Chaser",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Ignited Spirit PWR",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Burning Spirit PWR",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Early Lead",
+        "Rating": "Best",
+        "Style": "Front Runner",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Taking the Lead",
+        "Rating": "Best",
+        "Style": "Front Runner",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Focus",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Concentration",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Hesitant Front Runners",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Hesitant Pace Chasers",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Hesitant Late Surgers",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Hesitant End Closers",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Subdued Front Runners",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Subdued Pace Chasers",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Subdued Late Surgers",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Subdued End Closers",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Flustered Front Runners",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Flustered Pace Chasers",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Flustered Late Surgers",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Flustered End Closers",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Trick (Front)",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Tantalizing Trick",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Trick (Rear)",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Sharp Gaze",
+        "Rating": "Best",
+        "Style": "Late Surger",
+        "Distance": "All"
+    },
+    {
+        "Skill": "All-Seeing Eyes",
+        "Rating": "Best",
+        "Style": "Late Surger",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Tether",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "Medium"
+    },
+    {
+        "Skill": "Dominator",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "Medium"
+    },
+    {
+        "Skill": "Murmur",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "Medium"
+    },
+    {
+        "Skill": "Mystifying Murmur",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "Medium"
+    },
+    {
+        "Skill": "Stamina Siphon",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "Long"
+    },
+    {
+        "Skill": "Lone Wolf",
+        "Rating": "Best",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Front Runner Savvy ◯",
+        "Rating": "Best",
+        "Style": "Front Runner",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Pace Chaser Savvy ◯",
+        "Rating": "Best",
+        "Style": "Pace Chaser",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Late Surger Savvy ◯",
+        "Rating": "Best",
+        "Style": "Late Surger",
+        "Distance": "All"
+    },
+    {
+        "Skill": "End Closer Savvy ◯",
+        "Rating": "Best",
+        "Style": "End Closer",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Professor of Curvature",
+        "Rating": "Good",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Beeline Burst",
+        "Rating": "Good",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "It's On!",
+        "Rating": "Good",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "In Body and Mind",
+        "Rating": "Good",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Ignited Spirit GUTS",
+        "Rating": "Good",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Position Pilfer",
+        "Rating": "Good",
+        "Style": "Late Surger",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Fast & Furious",
+        "Rating": "Good",
+        "Style": "Late Surger",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Outer Swell",
+        "Rating": "Good",
+        "Style": "Late Surger",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Rising Dragon",
+        "Rating": "Good",
+        "Style": "Late Surger",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Productive Plan",
+        "Rating": "Good",
+        "Style": "All",
+        "Distance": "Mile"
+    },
+    {
+        "Skill": "Shifting Gears",
+        "Rating": "Good",
+        "Style": "All",
+        "Distance": "Mile"
+    },
+    {
+        "Skill": "Changing Gears",
+        "Rating": "Good",
+        "Style": "All",
+        "Distance": "Mile"
+    },
+    {
+        "Skill": "Up-Tempo",
+        "Rating": "Good",
+        "Style": "All",
+        "Distance": "Medium"
+    },
+    {
+        "Skill": "Killer Tunes",
+        "Rating": "Good",
+        "Style": "All",
+        "Distance": "Medium"
+    },
+    {
+        "Skill": "Nimble Navigator",
+        "Rating": "Good",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "No Stopping Me!",
+        "Rating": "Good",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Head-On",
+        "Rating": "Good",
+        "Style": "Pace Chaser",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Slick Surge",
+        "Rating": "Good",
+        "Style": "Late Surger",
+        "Distance": "All"
+    },
+    {
+        "Skill": "On Your Left!",
+        "Rating": "Good",
+        "Style": "Late Surger",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Updrafters",
+        "Rating": "Good",
+        "Style": "All",
+        "Distance": "Mile"
+    },
+    {
+        "Skill": "Furious Feat",
+        "Rating": "Good",
+        "Style": "All",
+        "Distance": "Mile"
+    },
+    {
+        "Skill": "Frenzied Front Runners",
+        "Rating": "Good",
+        "Style": "Front Runner",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Frenzied Pace Chasers",
+        "Rating": "Good",
+        "Style": "Pace Chaser",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Frenzied Late Surgers",
+        "Rating": "Good",
+        "Style": "Late Surger",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Frenzied End Closers",
+        "Rating": "Good",
+        "Style": "End Closer",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Stamina Eater",
+        "Rating": "Good",
+        "Style": "All",
+        "Distance": "Long"
+    },
+    {
+        "Skill": "Left-Handed ◯",
+        "Rating": "Good",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Right-Handed ◯",
+        "Rating": "Good",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Winter Runner ◯",
+        "Rating": "Good",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Spring Runner ◯",
+        "Rating": "Good",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Summer Runner ◯",
+        "Rating": "Good",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Fall Runner ◯",
+        "Rating": "Good",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Standard Distance ◯",
+        "Rating": "Good",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Non-Standard Distance ◯",
+        "Rating": "Good",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Gap Closer",
+        "Rating": "Situational",
+        "Style": "All",
+        "Distance": "Sprint"
+    },
+    {
+        "Skill": "Blinding Flash",
+        "Rating": "Situational",
+        "Style": "All",
+        "Distance": "Sprint"
+    },
+    {
+        "Skill": "Wait-and-See",
+        "Rating": "Situational",
+        "Style": "All",
+        "Distance": "Sprint"
+    },
+    {
+        "Skill": "Watchful Eye",
+        "Rating": "Situational",
+        "Style": "All",
+        "Distance": "Mile"
+    },
+    {
+        "Skill": "Keen Eye",
+        "Rating": "Situational",
+        "Style": "All",
+        "Distance": "Mile"
+    },
+    {
+        "Skill": "Red Shift/LP1211-M",
+        "Rating": "Situational",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Shooting for Victory!",
+        "Rating": "Situational",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Let's Pump Some Iron!",
+        "Rating": "Situational",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Angling and Scheming",
+        "Rating": "Situational",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Condor's Fury",
+        "Rating": "Situational",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Runaway",
+        "Rating": "Situational",
+        "Style": "Front Runner",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Front Runner Corners ◎",
+        "Rating": "Excess",
+        "Style": "Front Runner",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Front Runner Straightaways ◎",
+        "Rating": "Excess",
+        "Style": "Front Runner",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Pace Chaser Corners ◎",
+        "Rating": "Excess",
+        "Style": "Pace Chaser",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Pace Chaser Straightaways ◎",
+        "Rating": "Excess",
+        "Style": "Pace Chaser",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Late Surger Corners ◎",
+        "Rating": "Excess",
+        "Style": "Late Surger",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Late Surger Straightaways ◎",
+        "Rating": "Excess",
+        "Style": "Late Surger",
+        "Distance": "All"
+    },
+    {
+        "Skill": "End Closer Corners ◎",
+        "Rating": "Excess",
+        "Style": "End Closer",
+        "Distance": "All"
+    },
+    {
+        "Skill": "End Closer Straightaways ◎",
+        "Rating": "Excess",
+        "Style": "End Closer",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Sprint Corners ◎",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Sprint"
+    },
+    {
+        "Skill": "Sprint Straightaways ◎",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Sprint"
+    },
+    {
+        "Skill": "Mile Corners ◎",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Mile"
+    },
+    {
+        "Skill": "Mile Straightaways ◎",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Mile"
+    },
+    {
+        "Skill": "Medium Corners ◎",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Medium"
+    },
+    {
+        "Skill": "Medium Straightaways ◎",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Medium"
+    },
+    {
+        "Skill": "Long Corners ◎",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Long"
+    },
+    {
+        "Skill": "Long Straightaways ◎",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Long"
+    },
+    {
+        "Skill": "Corner Adept ◯",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Straightaway Adept",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Ramp Up",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Homestretch Haste",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Ignited Spirit SPD",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Burning Spirit SPD",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Leader's Pride",
+        "Rating": "Excess",
+        "Style": "Front Runner",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Prepared to Pass",
+        "Rating": "Excess",
+        "Style": "Pace Chaser",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Speed Star",
+        "Rating": "Excess",
+        "Style": "Pace Chaser",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Early Start",
+        "Rating": "Excess",
+        "Style": "End Closer",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Steadfast",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Medium"
+    },
+    {
+        "Skill": "Unyielding",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Medium"
+    },
+    {
+        "Skill": "All I've Got",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Medium"
+    },
+    {
+        "Skill": "Come What May",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Medium"
+    },
+    {
+        "Skill": "Inside Scoop",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Long"
+    },
+    {
+        "Skill": "Innate Experience",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Long"
+    },
+    {
+        "Skill": "Keeping the Lead",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Long"
+    },
+    {
+        "Skill": "Vanguard Spirit",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Long"
+    },
+    {
+        "Skill": "Pressure",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Long"
+    },
+    {
+        "Skill": "Overwhelming Pressure",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Long"
+    },
+    {
+        "Skill": "Top Pick",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Dirt"
+    },
+    {
+        "Skill": "Trending in the Charts!",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Dirt"
+    },
+    {
+        "Skill": "Certain Victory",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Legacy of the Strong",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Shooting Star",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "The View from the Lead is Mine!",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Sky-High Teio Step",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Triumphant Pulse",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Anchors Aweigh!",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Resplendent Red Ace",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Where There's a Will, There's a Way",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "The Duty of Dignity Calls",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Victoria por plancha ☆",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "This Dance Is for Vittoria!",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Behold Thine Emperor's Divine Might",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Blazing Pride",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "∴win Q.E.D.",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Flashy☆Landing",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Blue Rose Closer",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Our Ticket to Win!",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Just a Little Farther!",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "#LookatCurren",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Nemesis",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "SPARKLY☆STARDOM",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Shadow Break",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Eternal Moments",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Flowery☆Maneuver",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "You and Me! One-on-One!",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Lights of Vaudeville",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "A Kiss for Courage",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "I Never Goof Up!",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Bountiful Harvest",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "YUMMY☆SPEED!",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "OMG! (ﾟ∀ﾟ) The Final Sprint! ☆",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Give Mummy a Hug ♡",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Chasing After You",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Arrows Whistle, Shadows Disperse",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Pop & Polish",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Straightaway Recovery",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Breath of Fresh Air",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Lay Low",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Iron Will",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Pace Strategy",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Indomitable",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Triple 7s",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Shake It Out",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Ignited Spirit STA",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Burning Spirit STA",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Moxie",
+        "Rating": "Excess",
+        "Style": "Front Runner",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Restless",
+        "Rating": "Excess",
+        "Style": "Front Runner",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Stamina to Spare",
+        "Rating": "Excess",
+        "Style": "Pace Chaser",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Calm and Collected",
+        "Rating": "Excess",
+        "Style": "Pace Chaser",
+        "Distance": "All"
+    },
+    {
+        "Skill": "A Small Breather",
+        "Rating": "Excess",
+        "Style": "Late Surger",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Relax",
+        "Rating": "Excess",
+        "Style": "Late Surger",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Be Still",
+        "Rating": "Excess",
+        "Style": "Late Surger",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Lie in Wait",
+        "Rating": "Excess",
+        "Style": "Late Surger",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Standing By",
+        "Rating": "Excess",
+        "Style": "End Closer",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Sleeping Lion",
+        "Rating": "Excess",
+        "Style": "End Closer",
+        "Distance": "All"
+    },
+    {
+        "Skill": "After-School Stroll",
+        "Rating": "Excess",
+        "Style": "End Closer",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Go-Home Specialist",
+        "Rating": "Excess",
+        "Style": "End Closer",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Levelheaded",
+        "Rating": "Excess",
+        "Style": "End Closer",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Rosy Outlook",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Medium"
+    },
+    {
+        "Skill": "Trackblazer",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Medium"
+    },
+    {
+        "Skill": "Soft Step",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Medium"
+    },
+    {
+        "Skill": "Miraculous Step",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Medium"
+    },
+    {
+        "Skill": "Deep Breaths",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Long"
+    },
+    {
+        "Skill": "Cooldown",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Long"
+    },
+    {
+        "Skill": "Extra Tank",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Long"
+    },
+    {
+        "Skill": "Adrenaline Rush",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Long"
+    },
+    {
+        "Skill": "Passing Pro",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Long"
+    },
+    {
+        "Skill": "U=ma2",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Pure Heart",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Super-Duper Climax",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Superior Heal",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Dazzl'n ♪ Diver",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Every Rose Has Its Fangs",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Corner Acceleration ◯",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Corner Connoisseur",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Straightaway Acceleration",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Rushing Gale!",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Highlander",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Groundwork",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Final Push",
+        "Rating": "Excess",
+        "Style": "Front Runner",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Unrestrained",
+        "Rating": "Excess",
+        "Style": "Front Runner",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Shrewd Step",
+        "Rating": "Excess",
+        "Style": "Pace Chaser",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Technician",
+        "Rating": "Excess",
+        "Style": "Pace Chaser",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Straight Descent",
+        "Rating": "Excess",
+        "Style": "Pace Chaser",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Determined Descent",
+        "Rating": "Excess",
+        "Style": "Pace Chaser",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Tactical Tweak",
+        "Rating": "Excess",
+        "Style": "Pace Chaser",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Shatterproof",
+        "Rating": "Excess",
+        "Style": "Pace Chaser",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Fighter",
+        "Rating": "Excess",
+        "Style": "Late Surger",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Hard Worker",
+        "Rating": "Excess",
+        "Style": "Late Surger",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Straightaway Spurt",
+        "Rating": "Excess",
+        "Style": "End Closer",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Encroaching Shadow",
+        "Rating": "Excess",
+        "Style": "End Closer",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Sprinting Gear",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Sprint"
+    },
+    {
+        "Skill": "Turbo Sprint",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Sprint"
+    },
+    {
+        "Skill": "Countermeasure",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Sprint"
+    },
+    {
+        "Skill": "Plan X",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Sprint"
+    },
+    {
+        "Skill": "Acceleration",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Mile"
+    },
+    {
+        "Skill": "Step on the Gas!",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Mile"
+    },
+    {
+        "Skill": "KEEP IT REAL.",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Moving Past, and Beyond",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Prudent Positioning",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Center Stage",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Go with the Flow",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Lane Legerdemain",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Ignited Spirit WIT",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Burning Spirit WIT",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Dodging Danger",
+        "Rating": "Excess",
+        "Style": "Front Runner",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Sixth Sense",
+        "Rating": "Excess",
+        "Style": "Front Runner",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Meticulous Measures",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Sprint"
+    },
+    {
+        "Skill": "Perfect Prep!",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Sprint"
+    },
+    {
+        "Skill": "Thunderbolt Step",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Medium"
+    },
+    {
+        "Skill": "Lightning Step",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Medium"
+    },
+    {
+        "Skill": "Forward, March!",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Dirt"
+    },
+    {
+        "Skill": "Lead the Charge!",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Dirt"
+    },
+    {
+        "Skill": "Studious",
+        "Rating": "Excess",
+        "Style": "Late Surger",
+        "Distance": "All"
+    },
+    {
+        "Skill": "The Bigger Picture",
+        "Rating": "Excess",
+        "Style": "Late Surger",
+        "Distance": "All"
+    },
+    {
+        "Skill": "I Can See Right Through You",
+        "Rating": "Excess",
+        "Style": "End Closer",
+        "Distance": "All"
+    },
+    {
+        "Skill": "The Coast Is Clear!",
+        "Rating": "Excess",
+        "Style": "End Closer",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Strategist",
+        "Rating": "Excess",
+        "Style": "End Closer",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Crusader",
+        "Rating": "Excess",
+        "Style": "End Closer",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Hawkeye",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Medium"
+    },
+    {
+        "Skill": "Clairvoyance",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Medium"
+    },
+    {
+        "Skill": "Disorient",
+        "Rating": "Excess",
+        "Style": "Pace Chaser",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Dazzling Disorientation",
+        "Rating": "Excess",
+        "Style": "Pace Chaser",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Intense Gaze",
+        "Rating": "Excess",
+        "Style": "End Closer",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Intimidate",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Sprint"
+    },
+    {
+        "Skill": "Adored by All",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Sprint"
+    },
+    {
+        "Skill": "Speed Eater",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Mile"
+    },
+    {
+        "Skill": "Smoke Screen",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Long"
+    },
+    {
+        "Skill": "Illusionist",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "Long"
+    },
+    {
+        "Skill": "Tokyo Racecourse ◯",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Nakayama Racecourse ◯",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Hanshin Racecourse ◯",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Kyoto Racecourse ◯",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Chukyo Racecourse ◯",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Sapporo Racecourse ◯",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Hakodate Racecourse ◯",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Fukushima Racecourse ◯",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Niigata Racecourse ◯",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Kokura Racecourse ◯",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Oi Racecourse ◯",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Firm Conditions ◯",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Wet Conditions ◯",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Sunny Days ◯",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Cloudy Days ◯",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Raint Days ◯",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Snowy Days ◯",
+        "Rating": "Excess",
+        "Style": "All",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Front Runner Savvy ◎",
+        "Rating": "Excess",
+        "Style": "Front Runner",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Pace Chaser Savvy ◎",
+        "Rating": "Excess",
+        "Style": "Pace Chaser",
+        "Distance": "All"
+    },
+    {
+        "Skill": "Late Surger Savvy ◎",
+        "Rating": "Excess",
+        "Style": "Late Surger",
+        "Distance": "All"
+    },
+    {
+        "Skill": "End Closer Savvy ◎",
+        "Rating": "Excess",
+        "Style": "End Closer",
+        "Distance": "All"
+    }
+]
