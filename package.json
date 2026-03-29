@@ -9,7 +9,10 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "brace-expansion": "5.0.5",
+    "flatted": "3.4.2",
     "next": "16.1.7",
+    "picomatch": "4.0.4",
     "react": "19.2.3",
     "react-dom": "19.2.3"
   },
