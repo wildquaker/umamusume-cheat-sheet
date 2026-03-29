@@ -185,6 +185,11 @@
     "guide": "images/guides/mejiro_ardan.jpg"
   },
   {
+    "name": "Mejiro Bright",
+    "image": "images/characters/mejiro_bright.png",
+    "guide": "images/guides/mejiro_bright.jpg"
+  },
+  {
     "name": "Mejiro Dober",
     "image": "images/characters/mejiro_dober.png",
     "guide": "images/guides/mejiro_dober.jpg"
@@ -258,6 +263,11 @@
     "name": "Sakura Chiyono O",
     "image": "images/characters/sakura_chiyono_o.png",
     "guide": "images/guides/sakura_chiyono_o.jpg"
+  },
+  {
+    "name": "Satono Diamond",
+    "image": "images/characters/satono_diamond.png",
+    "guide": "images/guides/satono_diamond.jpg"
   },
   {
     "name": "Seiun Sky",
