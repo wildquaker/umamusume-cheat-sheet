@@ -1,17 +1,19 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useSyncExternalStore } from "react";
 import { createPortal } from "react-dom";
+import Image from "next/image";
 import { SearchIcon, CloseIcon, ChevronLeftIcon, ChevronRightIcon } from "../components/Icons";
+import type { Character } from "../lib/types";
 
-export default function CharacterList({ characters }: { characters: any[] }) {
+export default function CharacterList({ characters }: { characters: Character[] }) {
   const [searchTerm, setSearchTerm] = useState("");
   const [selectedCharacterIndex, setSelectedCharacterIndex] = useState<number | null>(null);
-  const [mounted, setMounted] = useState(false);
-
-  useEffect(() => {
-    setMounted(true);
-  }, []);
+  const mounted = useSyncExternalStore(
+    () => () => {},
+    () => true,
+    () => false
+  );
 
   const filteredCharacters = characters.filter((c) => c.name.toLowerCase().includes(searchTerm.toLowerCase()));
 
@@ -88,7 +90,7 @@ export default function CharacterList({ characters }: { characters: any[] }) {
               >
                 <div className="aspect-[3/4] relative flex items-center justify-center p-2 bg-neutral-800">
                   <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent opacity-60 z-10"></div>
-                  <img src={character.image} alt={character.name} className="w-[115px] h-[115px] group-hover:w-32 group-hover:h-32 object-contain transition-all duration-300 z-0" loading="lazy" />
+                  <Image src={`/${character.image}`} alt={character.name} className="w-[115px] h-[115px] group-hover:w-32 group-hover:h-32 object-contain transition-all duration-300 z-0" width={115} height={115} loading="lazy" />
                   <div className="absolute bottom-0 left-0 right-0 p-3 z-20">
                     <h3 className="text-sm font-medium text-white truncate text-center group-hover:text-pink-400 transition-colors">{character.name}</h3>
                   </div>
@@ -123,7 +125,7 @@ export default function CharacterList({ characters }: { characters: any[] }) {
             </div>
             <div className="overflow-auto p-4 custom-scrollbar">
               <div className="flex justify-center bg-neutral-950/50 rounded-lg">
-                <img src={selectedCharacter.guide} alt={selectedCharacter.name} className="max-w-full max-h-[75vh] object-contain rounded-lg" />
+                <Image src={`/${selectedCharacter.guide}`} alt={selectedCharacter.name} className="max-w-full max-h-[75vh] object-contain rounded-lg" width={1200} height={900} />
               </div>
             </div>
           </div>

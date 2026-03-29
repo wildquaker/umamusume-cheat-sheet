@@ -2,8 +2,9 @@
 
 import { useState } from "react";
 import { SearchIcon } from "../components/Icons";
+import type { Skill } from "../lib/types";
 
-export default function SkillList({ skills }: { skills: any[] }) {
+export default function SkillList({ skills }: { skills: Skill[] }) {
   const [searchTerm, setSearchTerm] = useState("");
   const [ratingFilter, setRatingFilter] = useState("All");
   const [styleFilter, setStyleFilter] = useState("All");
@@ -102,7 +103,7 @@ export default function SkillList({ skills }: { skills: any[] }) {
             </tr>
           </thead>
           <tbody className="divide-y divide-neutral-800">
-            {filteredSkills.map((skill: any, index: number) => (
+            {filteredSkills.map((skill: Skill, index: number) => (
               <tr key={index} className="hover:bg-neutral-800/30 transition-colors">
                 <td className="px-4 py-3 text-white">{skill.Skill}</td>
                 <td className="px-4 py-3">

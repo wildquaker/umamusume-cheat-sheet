@@ -8,9 +8,12 @@ RUN pnpm install --frozen-lockfile
 
 FROM node:24.14-alpine3.23 AS builder
 WORKDIR /app
+
+RUN corepack enable pnpm
+
 COPY . .
 COPY --from=deps /app/node_modules ./node_modules
-RUN npm run build
+RUN pnpm run build
 
 FROM node:24.14-alpine3.23 AS runner
 WORKDIR /app

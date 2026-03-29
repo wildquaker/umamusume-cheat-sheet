@@ -1,5 +1,7 @@
+export const dynamic = "force-dynamic";
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import PageLayout from "./components/PageLayout";
 
 export const metadata: Metadata = {
@@ -12,7 +14,7 @@ export default function Home() {
     <PageLayout title="Welcome">
       <div className="space-y-8">
         <div className="rounded-xl overflow-hidden border border-neutral-800 shadow-2xl relative">
-          <img src="/images/home_art.webp" alt="Umamusume Home Art" className="w-full h-auto object-cover" loading="lazy" />
+          <Image src="/images/home_art.webp" alt="Umamusume Home Art" className="w-full h-auto object-cover" width={1200} height={600} priority />
           <div className="absolute inset-0 bg-gradient-to-t from-neutral-950 via-transparent to-transparent"></div>
           <div className="absolute bottom-0 left-0 right-0 p-6 md:p-8">
             <h2 className="text-2xl md:text-3xl font-bold text-white mb-2">Your Personal Training Guide</h2>

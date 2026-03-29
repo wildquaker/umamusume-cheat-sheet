@@ -1,3 +1,4 @@
+export const dynamic = "force-dynamic";
 import type { Metadata } from "next";
 import PageLayout from "../components/PageLayout";
 
@@ -5,6 +6,7 @@ export const metadata: Metadata = {
   title: "Links",
 };
 import { getLinks } from "../lib/data";
+import type { Link as LinkData } from "../lib/types";
 import { ExternalLinkIcon } from "../components/Icons";
 
 export default async function LinksPage() {
@@ -18,7 +20,7 @@ export default async function LinksPage() {
         </div>
 
         <div className="grid gap-4 md:grid-cols-2">
-          {links.map((link: any, index: number) => (
+          {links.map((link: LinkData, index: number) => (
             <a
               key={index}
               href={link.url}
