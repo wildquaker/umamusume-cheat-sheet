@@ -1,67 +1,740 @@
 [
-    {
-        "year": "Junior Year",
-        "races": [
-            {
+  {
+    "scenario": "URA Finale",
+    "routes": [
+      {
+        "name": "Triple Tiara (Mile\/Med)",
+        "agenda": [
+          {
+            "year": "Junior Year",
+            "races": [
+              {
                 "name": "Hopeful Stakes",
-                "time": "Late December"
-            }
-        ]
-    },
-    {
-        "year": "Classic Year",
-        "races": [
-            {
-                "name": "Satsuki Sho",
-                "time": "Early April"
-            },
-            {
-                "name": "Tokyo Yushun",
-                "time": "Late May"
-            },
-            {
-                "name": "Kikuka Sho / Shuka Sho",
-                "time": "Late October"
-            },
-            {
+                "turn": "Late Dec"
+              }
+            ]
+          },
+          {
+            "year": "Classic Year",
+            "races": [
+              {
+                "name": "Oka Sho",
+                "turn": "Early Apr"
+              },
+              {
+                "name": "Japanese Oaks",
+                "turn": "Late May"
+              },
+              {
+                "name": "Shuka Sho",
+                "turn": "Late Oct"
+              },
+              {
                 "name": "Queen Elizabeth II Cup",
-                "time": "Early November"
-            }
-        ]
-    },
-    {
-        "year": "Senior Year",
-        "races": [
-            {
+                "turn": "Early Nov"
+              }
+            ]
+          },
+          {
+            "year": "Senior Year",
+            "races": [
+              {
                 "name": "Osaka Hai",
-                "time": "Late March"
-            },
-            {
-                "name": "Tenno Sho Spring",
-                "time": "Late April"
-            },
-            {
+                "turn": "Late Mar"
+              },
+              {
                 "name": "Victoria Mile",
-                "time": "Early May",
-                "optional": true,
-                "note": "Alternative to Tenno Sho Spring"
-            },
-            {
+                "turn": "Early May"
+              },
+              {
                 "name": "Takarazuka Kinen",
-                "time": "Late June"
-            },
-            {
+                "turn": "Late Jun"
+              },
+              {
                 "name": "Tenno Sho Autumn",
-                "time": "Late October"
-            },
-            {
+                "turn": "Late Oct"
+              },
+              {
+                "name": "Queen Elizabeth II Cup",
+                "turn": "Early Nov"
+              },
+              {
                 "name": "Japan Cup",
-                "time": "Late November"
-            },
-            {
-                "name": "Arima Kinen / Tokyo Daishoten",
-                "time": "Late December"
-            }
+                "turn": "Late Nov"
+              }
+            ]
+          }
         ]
-    }
+      },
+      {
+        "name": "Triple Crown (Med\/Long)",
+        "agenda": [
+          {
+            "year": "Junior Year",
+            "races": [
+              {
+                "name": "Hopeful Stakes",
+                "turn": "Late Dec"
+              }
+            ]
+          },
+          {
+            "year": "Classic Year",
+            "races": [
+              {
+                "name": "Satsuki Sho",
+                "turn": "Early Apr"
+              },
+              {
+                "name": "Tokyo Yushun",
+                "turn": "Late May"
+              },
+              {
+                "name": "Kikuka Sho",
+                "turn": "Late Oct"
+              },
+              {
+                "name": "Queen Elizabeth II Cup",
+                "turn": "Early Nov"
+              }
+            ]
+          },
+          {
+            "year": "Senior Year",
+            "races": [
+              {
+                "name": "Osaka Hai",
+                "turn": "Late Mar"
+              },
+              {
+                "name": "Tenno Sho Spring",
+                "turn": "Late Apr"
+              },
+              {
+                "name": "Takarazuka Kinen",
+                "turn": "Late Jun"
+              },
+              {
+                "name": "Tenno Sho Autumn",
+                "turn": "Late Oct"
+              },
+              {
+                "name": "Japan Cup",
+                "turn": "Late Nov"
+              },
+              {
+                "name": "Arima Kinen",
+                "turn": "Late Dec"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "scenario": "Trackblazer",
+    "routes": [
+      {
+        "name": "Sprint (Sprint\/Mile\/Med)",
+        "agenda": [
+          {
+            "year": "Junior Year",
+            "races": [
+              {
+                "name": "Niggata Junior Stakes",
+                "turn": "Late Aug"
+              },
+              {
+                "name": "Sapporo Junior Stakes",
+                "turn": "Early Sep"
+              },
+              {
+                "name": "Saudi Arabia Royal Cup",
+                "turn": "Early Oct"
+              },
+              {
+                "name": "Artemis Stakes",
+                "turn": "Late Oct"
+              },
+              {
+                "name": "Tokyo Sports Hai Junior Stakes",
+                "turn": "Late Nov"
+              },
+              {
+                "name": "Hanshin Juvenile Fillies",
+                "turn": "Early Dec"
+              },
+              {
+                "name": "Hopeful Stakes",
+                "turn": "Late Dec"
+              }
+            ]
+          },
+          {
+            "year": "Classic Year",
+            "races": [
+              {
+                "name": "Kyoto News Hai",
+                "turn": "Early Feb"
+              },
+              {
+                "name": "Spring Stakes",
+                "turn": "Late Mar"
+              },
+              {
+                "name": "Oka Sho",
+                "turn": "Early Apr"
+              },
+              {
+                "name": "NHK Mile Cup",
+                "turn": "Early May"
+              },
+              {
+                "name": "Japanese Oaks",
+                "turn": "Late May"
+              },
+              {
+                "name": "Takarazuka Kinen",
+                "turn": "Late Jun"
+              },
+              {
+                "name": "Niigata Kinen",
+                "turn": "Early Sep"
+              },
+              {
+                "name": "Sprinters Stakes",
+                "turn": "Late Sep"
+              },
+              {
+                "name": "Shuka Sho",
+                "turn": "Late Oct"
+              },
+              {
+                "name": "Queen Elizabeth II Cup",
+                "turn": "Early Nov"
+              },
+              {
+                "name": "Mile Championship",
+                "turn": "Late Nov"
+              }
+            ]
+          },
+          {
+            "year": "Senior Year",
+            "races": [
+              {
+                "name": "American JCC",
+                "turn": "Late Jan"
+              },
+              {
+                "name": "Kyoto Kinen",
+                "turn": "Early Feb"
+              },
+              {
+                "name": "Nakayama Umamusume Stakes",
+                "turn": "Early Mar"
+              },
+              {
+                "name": "Takamatsunomiya Kinen",
+                "turn": "Late Mar"
+              },
+              {
+                "name": "Fukushima Umamusume Stakes",
+                "turn": "Late Apr"
+              },
+              {
+                "name": "Victoria Mile",
+                "turn": "Early May"
+              },
+              {
+                "name": "Yasuda Kinen",
+                "turn": "Early Jun"
+              },
+              {
+                "name": "Takarazuka Kinen",
+                "turn": "Late Jun"
+              },
+              {
+                "name": "Niigata Kinen",
+                "turn": "Early Sep"
+              },
+              {
+                "name": "Fuchu Umamusume Stakes",
+                "turn": "Early Oct"
+              },
+              {
+                "name": "Tenno Sho Autumn",
+                "turn": "Late Oct"
+              },
+              {
+                "name": "Queen Elizabeth II Cup",
+                "turn": "Early Nov"
+              },
+              {
+                "name": "Japan Cup",
+                "turn": "Late Nov"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dirt (Sprint\/Mile\/Med)",
+        "agenda": [
+          {
+            "year": "Junior Year",
+            "races": [
+              {
+                "name": "Niggata Junior Stakes",
+                "turn": "Late Aug"
+              },
+              {
+                "name": "Sapporo Junior Stakes",
+                "turn": "Early Sep"
+              },
+              {
+                "name": "Saudi Arabia Royal Cup",
+                "turn": "Early Oct"
+              },
+              {
+                "name": "Artemis Stakes",
+                "turn": "Late Oct"
+              },
+              {
+                "name": "Tokyo Sports Hai Junior Stakes",
+                "turn": "Late Nov"
+              },
+              {
+                "name": "Hanshin Juvenile Fillies",
+                "turn": "Early Dec"
+              },
+              {
+                "name": "Hopeful Stakes",
+                "turn": "Late Dec"
+              }
+            ]
+          },
+          {
+            "year": "Classic Year",
+            "races": [
+              {
+                "name": "Kyoto News Hai",
+                "turn": "Early Feb"
+              },
+              {
+                "name": "Spring Stakes",
+                "turn": "Late Mar"
+              },
+              {
+                "name": "Oka Sho",
+                "turn": "Early Apr"
+              },
+              {
+                "name": "NHK Mile Cup",
+                "turn": "Early May"
+              },
+              {
+                "name": "Japanese Oaks",
+                "turn": "Late May"
+              },
+              {
+                "name": "Takarazuka Kinen",
+                "turn": "Late Jun"
+              },
+              {
+                "name": "Japanese Dirt Derby",
+                "turn": "Early Jul"
+              },
+              {
+                "name": "Niigata Kinen",
+                "turn": "Early Sep"
+              },
+              {
+                "name": "Sprinters Stakes",
+                "turn": "Late Sep"
+              },
+              {
+                "name": "Shuka Sho",
+                "turn": "Late Oct"
+              },
+              {
+                "name": "Queen Elizabeth II Cup",
+                "turn": "Early Nov"
+              },
+              {
+                "name": "Mile Championship",
+                "turn": "Late Nov"
+              },
+              {
+                "name": "Tokyo Daishoten",
+                "turn": "Late Dec"
+              }
+            ]
+          },
+          {
+            "year": "Senior Year",
+            "races": [
+              {
+                "name": "American JCC",
+                "turn": "Late Jan"
+              },
+              {
+                "name": "February Stakes",
+                "turn": "Late Feb"
+              },
+              {
+                "name": "Nakayama Umamusume Stakes",
+                "turn": "Early Mar"
+              },
+              {
+                "name": "Takamatsunomiya Kinen",
+                "turn": "Late Mar"
+              },
+              {
+                "name": "Fukushima Umamusume Stakes",
+                "turn": "Late Apr"
+              },
+              {
+                "name": "Victoria Mile",
+                "turn": "Early May"
+              },
+              {
+                "name": "Yasuda Kinen",
+                "turn": "Early Jun"
+              },
+              {
+                "name": "Teio Sho",
+                "turn": "Late Jun"
+              },
+              {
+                "name": "Niigata Kinen",
+                "turn": "Early Sep"
+              },
+              {
+                "name": "Fuchu Umamusume Stakes",
+                "turn": "Early Oct"
+              },
+              {
+                "name": "Tenno Sho Autumn",
+                "turn": "Late Oct"
+              },
+              {
+                "name": "Queen Elizabeth II Cup",
+                "turn": "Early Nov"
+              },
+              {
+                "name": "Japan Cup",
+                "turn": "Late Nov"
+              },
+              {
+                "name": "Tokyo Daishoten",
+                "turn": "Late Dec"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Triple Tiara (Sprint\/Mile\/Med)",
+        "agenda": [
+          {
+            "year": "Junior Year",
+            "races": [
+              {
+                "name": "Niggata Junior Stakes",
+                "turn": "Late Aug"
+              },
+              {
+                "name": "Sapporo Junior Stakes",
+                "turn": "Early Sep"
+              },
+              {
+                "name": "Saudi Arabia Royal Cup",
+                "turn": "Early Oct"
+              },
+              {
+                "name": "Artemis Stakes",
+                "turn": "Late Oct"
+              },
+              {
+                "name": "Tokyo Sports Hai Junior Stakes",
+                "turn": "Late Nov"
+              },
+              {
+                "name": "Hanshin Juvenile Fillies",
+                "turn": "Early Dec"
+              },
+              {
+                "name": "Hopeful Stakes",
+                "turn": "Late Dec"
+              }
+            ]
+          },
+          {
+            "year": "Classic Year",
+            "races": [
+              {
+                "name": "Kyoto News Hai",
+                "turn": "Early Feb"
+              },
+              {
+                "name": "Spring Stakes",
+                "turn": "Late Mar"
+              },
+              {
+                "name": "Oka Sho",
+                "turn": "Early Apr"
+              },
+              {
+                "name": "NHK Mile Cup",
+                "turn": "Early May"
+              },
+              {
+                "name": "Japanese Oaks",
+                "turn": "Late May"
+              },
+              {
+                "name": "Takarazuka Kinen",
+                "turn": "Late Jun"
+              },
+              {
+                "name": "Niigata Kinen",
+                "turn": "Early Sep"
+              },
+              {
+                "name": "All Comers",
+                "turn": "Late Sep"
+              },
+              {
+                "name": "Shuka Sho",
+                "turn": "Late Oct"
+              },
+              {
+                "name": "Queen Elizabeth II Cup",
+                "turn": "Early Nov"
+              },
+              {
+                "name": "Mile Championship",
+                "turn": "Late Nov"
+              }
+            ]
+          },
+          {
+            "year": "Senior Year",
+            "races": [
+              {
+                "name": "Nikkei Shinshun Hai",
+                "turn": "Early Jan"
+              },
+              {
+                "name": "American JCC",
+                "turn": "Late Jan"
+              },
+              {
+                "name": "Kyoto Kinen",
+                "turn": "Early Feb"
+              },
+              {
+                "name": "Nakayama Umamusume Stakes",
+                "turn": "Early Mar"
+              },
+              {
+                "name": "Osaka Hai",
+                "turn": "Late Mar"
+              },
+              {
+                "name": "Fukushima Umamusume Stakes",
+                "turn": "Late Apr"
+              },
+              {
+                "name": "Victoria Mile",
+                "turn": "Early May"
+              },
+              {
+                "name": "Yasuda Kinen",
+                "turn": "Early Jun"
+              },
+              {
+                "name": "Takarazuka Kinen",
+                "turn": "Late Jun"
+              },
+              {
+                "name": "Niigata Kinen",
+                "turn": "Early Sep"
+              },
+              {
+                "name": "Fuchu Umamusume Stakes",
+                "turn": "Early Oct"
+              },
+              {
+                "name": "Tenno Sho Autumn",
+                "turn": "Late Oct"
+              },
+              {
+                "name": "Queen Elizabeth II Cup",
+                "turn": "Early Nov"
+              },
+              {
+                "name": "Japan Cup",
+                "turn": "Late Nov"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Triple Crown (Mile\/Med\/Long)",
+        "agenda": [
+          {
+            "year": "Junior Year",
+            "races": [
+              {
+                "name": "Niggata Junior Stakes",
+                "turn": "Late Aug"
+              },
+              {
+                "name": "Sapporo Junior Stakes",
+                "turn": "Early Sep"
+              },
+              {
+                "name": "Saudi Arabia Royal Cup",
+                "turn": "Early Oct"
+              },
+              {
+                "name": "Artemis Stakes",
+                "turn": "Late Oct"
+              },
+              {
+                "name": "Tokyo Sports Hai Junior Stakes",
+                "turn": "Late Nov"
+              },
+              {
+                "name": "Hanshin Juvenile Fillies",
+                "turn": "Early Dec"
+              },
+              {
+                "name": "Hopeful Stakes",
+                "turn": "Late Dec"
+              }
+            ]
+          },
+          {
+            "year": "Classic Year",
+            "races": [
+              {
+                "name": "Kyoto News Hai",
+                "turn": "Early Feb"
+              },
+              {
+                "name": "Spring Stakes",
+                "turn": "Late Mar"
+              },
+              {
+                "name": "Satsuki Sho",
+                "turn": "Early Apr"
+              },
+              {
+                "name": "NHK Mile Cup",
+                "turn": "Early May"
+              },
+              {
+                "name": "Tokyo Yushun",
+                "turn": "Late May"
+              },
+              {
+                "name": "Takarazuka Kinen",
+                "turn": "Late Jun"
+              },
+              {
+                "name": "Niigata Kinen",
+                "turn": "Early Sep"
+              },
+              {
+                "name": "All Comers",
+                "turn": "Late Sep"
+              },
+              {
+                "name": "Kikuka Sho",
+                "turn": "Late Oct"
+              },
+              {
+                "name": "Queen Elizabeth II Cup",
+                "turn": "Early Nov"
+              },
+              {
+                "name": "Mile Championship",
+                "turn": "Late Nov"
+              },
+              {
+                "name": "Arima Kinen",
+                "turn": "Late Dec"
+              }
+            ]
+          },
+          {
+            "year": "Senior Year",
+            "races": [
+              {
+                "name": "American JCC",
+                "turn": "Late Jan"
+              },
+              {
+                "name": "Kyoto Kinen",
+                "turn": "Early Feb"
+              },
+              {
+                "name": "Kinko Sho",
+                "turn": "Early Mar"
+              },
+              {
+                "name": "Osaka Hai",
+                "turn": "Late Mar"
+              },
+              {
+                "name": "Tenno Sho Spring",
+                "turn": "Late Apr"
+              },
+              {
+                "name": "Victoria Mile",
+                "turn": "Early May"
+              },
+              {
+                "name": "Yasuda Kinen",
+                "turn": "Early Jun"
+              },
+              {
+                "name": "Takarazuka Kinen",
+                "turn": "Late Jun"
+              },
+              {
+                "name": "Niigata Kinen",
+                "turn": "Early Sep"
+              },
+              {
+                "name": "All Comers",
+                "turn": "Late Sep"
+              },
+              {
+                "name": "Tenno Sho Autumn",
+                "turn": "Late Oct"
+              },
+              {
+                "name": "Queen Elizabeth II Cup",
+                "turn": "Early Nov"
+              },
+              {
+                "name": "Japan Cup",
+                "turn": "Late Nov"
+              },
+              {
+                "name": "Arima Kinen",
+                "turn": "Late Dec"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 ]

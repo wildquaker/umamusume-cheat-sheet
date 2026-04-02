@@ -39,14 +39,22 @@ export interface Scenario {
 
 export interface Race {
   name: string;
-  time: string;
-  optional?: boolean;
-  note?: string;
+  turn: string;
 }
 
 export interface YearGroup {
   year: string;
   races: Race[];
+}
+
+export interface RaceRoute {
+  name: string;
+  agenda: YearGroup[];
+}
+
+export interface RaceScenario {
+  scenario: string;
+  routes: RaceRoute[];
 }
 
 export interface Link {

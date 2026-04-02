@@ -1,6 +1,6 @@
 import { promises as fs } from 'fs';
 import path from 'path';
-import type { Character, Skill, Scenario, YearGroup, Link } from './types';
+import type { Character, Skill, Scenario, RaceScenario, Link } from './types';
 
 export async function loadData<T>(filename: string): Promise<T> {
   const filePath = path.join(process.cwd(), 'app/data', `${filename}.json`);
@@ -20,8 +20,8 @@ export async function getBuilds(): Promise<Scenario[]> {
   return loadData<Scenario[]>('builds');
 }
 
-export async function getRaces(): Promise<YearGroup[]> {
-  return loadData<YearGroup[]>('races');
+export async function getRaces(): Promise<RaceScenario[]> {
+  return loadData<RaceScenario[]>('races');
 }
 
 export async function getLinks(): Promise<Link[]> {
