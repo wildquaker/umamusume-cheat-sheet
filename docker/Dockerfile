@@ -1,4 +1,4 @@
-FROM node:24.14-alpine3.23 AS deps
+FROM node:25.8-alpine3.23 AS deps
 WORKDIR /app
 
 RUN corepack enable pnpm
@@ -6,7 +6,7 @@ RUN corepack enable pnpm
 COPY package.json pnpm-lock.yaml* ./
 RUN pnpm install --frozen-lockfile
 
-FROM node:24.14-alpine3.23 AS builder
+FROM node:25.8-alpine3.23 AS builder
 WORKDIR /app
 
 RUN corepack enable pnpm
@@ -15,7 +15,7 @@ COPY . .
 COPY --from=deps /app/node_modules ./node_modules
 RUN pnpm run build
 
-FROM node:24.14-alpine3.23 AS runner
+FROM node:25.8-alpine3.23 AS runner
 WORKDIR /app
 ENV NODE_ENV=production
 ENV PORT=3000
