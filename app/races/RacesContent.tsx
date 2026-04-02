@@ -4,7 +4,11 @@ import { useState } from "react";
 import type { RaceScenario, RaceRoute, YearGroup, Race } from "../lib/types";
 import { CalendarIcon, FlagIcon } from "../components/Icons";
 
-export default function RacesContent({ scenarios }: { scenarios: RaceScenario[] }) {
+export default function RacesContent({
+  scenarios,
+}: {
+  scenarios: RaceScenario[];
+}) {
   const [activeScenario, setActiveScenario] = useState(0);
   const [activeRoute, setActiveRoute] = useState(0);
 
@@ -70,7 +74,9 @@ export default function RacesContent({ scenarios }: { scenarios: RaceScenario[] 
             >
               <div className="p-4 bg-neutral-800/50 border-b border-neutral-800 flex items-center gap-3">
                 <CalendarIcon className="text-pink-400" />
-                <h3 className="font-semibold text-lg text-white">{yearGroup.year}</h3>
+                <h3 className="font-semibold text-lg text-white">
+                  {yearGroup.year}
+                </h3>
                 <span className="ml-auto text-xs text-neutral-500 font-mono bg-neutral-950 px-2 py-0.5 rounded">
                   {yearGroup.races.length} races
                 </span>

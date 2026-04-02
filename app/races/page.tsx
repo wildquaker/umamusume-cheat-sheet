@@ -15,7 +15,9 @@ export default async function RacesPage() {
     <PageLayout title="Races">
       <div className="space-y-6">
         <div className="prose prose-invert max-w-none">
-          <p className="text-neutral-400">Key races to target for each scenario and route.</p>
+          <p className="text-neutral-400">
+            Key races to target for each scenario and route.
+          </p>
         </div>
         <RacesContent scenarios={scenarios} />
       </div>

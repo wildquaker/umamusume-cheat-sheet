@@ -7,14 +7,16 @@ export const metadata: Metadata = {
     template: "%s - Umamusume Cheat Sheet",
     default: "Home - Umamusume Cheat Sheet",
   },
-  description: "Umamusume Cheat Sheet - Your comprehensive guide for Uma Musume Pretty Derby",
+  description:
+    "Umamusume Cheat Sheet - Your comprehensive guide for Uma Musume Pretty Derby",
   authors: [{ name: "Quakey" }],
   openGraph: {
     title: {
       template: "%s - Umamusume Cheat Sheet",
       default: "Home - Umamusume Cheat Sheet",
     },
-    description: "Umamusume Cheat Sheet - Your comprehensive guide for Uma Musume Pretty Derby",
+    description:
+      "Umamusume Cheat Sheet - Your comprehensive guide for Uma Musume Pretty Derby",
     url: "https://umamusume.wildquaker.com/",
     siteName: "Umamusume Cheat Sheet",
     locale: "en_US",
@@ -28,7 +30,8 @@ export const metadata: Metadata = {
       template: "%s - Umamusume Cheat Sheet",
       default: "Home - Umamusume Cheat Sheet",
     },
-    description: "Umamusume Cheat Sheet - Your comprehensive guide for Uma Musume Pretty Derby",
+    description:
+      "Umamusume Cheat Sheet - Your comprehensive guide for Uma Musume Pretty Derby",
   },
   icons: {
     icon: [
@@ -71,9 +74,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="flex min-h-screen">
-        <Navigation>
-          {children}
-        </Navigation>
+        <Navigation>{children}</Navigation>
       </body>
     </html>
   );
