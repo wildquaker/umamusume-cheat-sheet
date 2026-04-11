@@ -1,54 +1,103 @@
-# Uma Musume Cheat Sheet
+# Umamusume Cheat Sheet
 
-A comprehensive reference tool and database for Uma Musume: Pretty Derby, built with Next.js, Tailwind CSS, and React.
+A comprehensive web-based guide for **Uma Musume Pretty Derby**, helping trainers quickly find character guides, skill recommendations, support card builds, race schedules, and more.
 
-This project provides quick access to character builds, skills, races, and other helpful resources for trainers.
+**Live Site:** [umamusume.wildquaker.com](https://umamusume.wildquaker.com/)
 
-## 🛠️ Tech Stack
+## Features
 
-- **Framework:** [Next.js](https://nextjs.org/) (App Router)
-- **Styling:** [Tailwind CSS v4](https://tailwindcss.com/)
+- **Characters** — Browse Uma Musume character guides with training tips
+- **Skills** — Skill recommendations and details
+- **Builds** — Support card deck suggestions
+- **Races** — Key race schedules and scenarios
+- **Links** — Curated collection of external community resources
+
+## Tech Stack
+
+- **Framework:** [Next.js](https://nextjs.org/) 16 (App Router, React 19)
 - **Language:** TypeScript
-- **Deployment:** Docker & Nginx
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/) 4
+- **Package Manager:** [pnpm](https://pnpm.io/)
+- **Deployment:** Docker + Nginx (self-hosted via GitHub Actions)
 
-## 🚀 Getting Started (Development)
+## Getting Started
 
-First, install the dependencies. The project generally recommends `pnpm`, but you can use `npm` or `yarn`:
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) 25+
+- [pnpm](https://pnpm.io/)
+
+### Installation
 
 ```bash
 pnpm install
-# or
-npm install
 ```
 
-Then, run the development server:
+### Development
 
 ```bash
 pnpm dev
-# or
-npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result. You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+The app will be available at [http://localhost:3000](http://localhost:3000).
 
-## 🐳 Running with Docker (Production)
-
-This project is configured for easy production deployments using Docker and Docker Compose. It utilizes Next.js's native `standalone` output mode to drastically reduce image size and improve reliability.
-
-To spin up the production build (which includes the Next.js app and an Nginx reverse proxy):
+### Build
 
 ```bash
-# 1. Build the Docker images
-docker compose build
-
-# 2. Start the containers in the background
-docker compose up -d
+pnpm build
 ```
 
-The app will be accessible at [http://localhost](http://localhost).
-
-To stop the containers:
+### Lint
 
 ```bash
-docker compose down
+pnpm lint
 ```
+
+## Deployment
+
+The project deploys automatically to production via a self-hosted GitHub Actions runner when changes are pushed to the `master` branch. Deployment can also be triggered manually from the Actions tab.
+
+The production stack uses Docker Compose with two services:
+
+| Service | Description |
+|---|---|
+| `umamusume-app` | Next.js standalone server (port 3000) |
+| `umamusume-nginx` | Nginx reverse proxy (port 80 → 3000) |
+
+To deploy manually:
+
+```bash
+docker compose up -d --build
+```
+
+## Project Structure
+
+```
+├── app/
+│   ├── builds/          # Builds page
+│   ├── characters/      # Characters page
+│   ├── components/      # Shared UI components
+│   ├── data/            # JSON data files (characters, skills, builds, races, links)
+│   ├── lib/             # Utility functions
+│   ├── links/           # Links page
+│   ├── races/           # Races page
+│   ├── skills/          # Skills page
+│   ├── layout.tsx       # Root layout
+│   ├── page.tsx         # Homepage
+│   └── globals.css      # Global styles
+├── docker/
+│   ├── Dockerfile       # Multi-stage Docker build
+│   └── nginx.conf       # Nginx configuration
+├── public/              # Static assets (favicons, images, sitemap)
+├── .github/workflows/   # CI/CD pipeline
+├── docker-compose.yml
+└── package.json
+```
+
+## Data
+
+Game data is stored as JSON files in `app/data/` and mounted as a read-only volume in production, allowing data updates without rebuilding the Docker image.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.txt).
