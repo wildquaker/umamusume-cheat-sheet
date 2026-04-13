@@ -75,6 +75,11 @@
     "guide": "images/guides/fuji_kiseki.webp"
   },
   {
+    "name": "Fuji Kiseki (Ballroom)",
+    "image": "images/characters/fuji_kiseki_ballroom.png",
+    "guide": "images/guides/fuji_kiseki_ballroom.webp"
+  },
+  {
     "name": "Gold City",
     "image": "images/characters/gold_city.png",
     "guide": "images/guides/gold_city.webp"
@@ -235,6 +240,11 @@
     "guide": "images/guides/nice_nature.webp"
   },
   {
+    "name": "Nishino Flower",
+    "image": "images/characters/nishino_flower.png",
+    "guide": "images/guides/nishino_flower.webp"
+  },
+  {
     "name": "Oguri Cap",
     "image": "images/characters/oguri_cap.png",
     "guide": "images/guides/oguri_cap.webp"
@@ -273,6 +283,11 @@
     "name": "Seiun Sky",
     "image": "images/characters/seiun_sky.png",
     "guide": "images/guides/seiun_sky.webp"
+  },
+  {
+    "name": "Seiun Sky (Ballroom)",
+    "image": "images/characters/seiun_sky_ballroom.png",
+    "guide": "images/guides/seiun_sky_ballroom.webp"
   },
   {
     "name": "Silence Suzuka",
