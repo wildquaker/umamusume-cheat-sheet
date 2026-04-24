@@ -1,377 +1,382 @@
 [
-  {
-    "name": "Admire Vega",
-    "image": "images/characters/admire_vega.png",
-    "guide": "images/guides/admire_vega.webp"
-  },
-  {
-    "name": "Agnes Digital",
-    "image": "images/characters/agnes_digital.png",
-    "guide": "images/guides/agnes_digital.webp"
-  },
-  {
-    "name": "Agnes Tachyon",
-    "image": "images/characters/agnes_tachyon.png",
-    "guide": "images/guides/agnes_tachyon.webp"
-  },
-  {
-    "name": "Air Groove",
-    "image": "images/characters/air_groove.png",
-    "guide": "images/guides/air_groove.webp"
-  },
-  {
-    "name": "Air Groove (Wedding)",
-    "image": "images/characters/air_groove_wedding.png",
-    "guide": "images/guides/air_groove_wedding.webp"
-  },
-  {
-    "name": "Biwa Hayahide",
-    "image": "images/characters/biwa_hayahide.png",
-    "guide": "images/guides/biwa_hayahide.webp"
-  },
-  {
-    "name": "Biwa Hayahide (Christmas)",
-    "image": "images/characters/biwa_hayahide_christmas.png",
-    "guide": "images/guides/biwa_hayahide_christmas.webp"
-  },
-  {
-    "name": "Curren Chan",
-    "image": "images/characters/curren_chan.png",
-    "guide": "images/guides/curren_chan.webp"
-  },
-  {
-    "name": "Daiwa Scarlet",
-    "image": "images/characters/daiwa_scarlet.png",
-    "guide": "images/guides/daiwa_scarlet.webp"
-  },
-  {
-    "name": "Eishin Flash",
-    "image": "images/characters/eishin_flash.png",
-    "guide": "images/guides/eishin_flash.webp"
-  },
-  {
-    "name": "Eishin Flash (Valentine)",
-    "image": "images/characters/eishin_flash_valentine.png",
-    "guide": "images/guides/eishin_flash_valentine.webp"
-  },
-  {
-    "name": "El Condor Pasa",
-    "image": "images/characters/el_condor_pasa.png",
-    "guide": "images/guides/el_condor_pasa.webp"
-  },
-  {
-    "name": "El Condor Pasa (Fantasy)",
-    "image": "images/characters/el_condor_pasa_fantasy.png",
-    "guide": "images/guides/el_condor_pasa_fantasy.webp"
-  },
-  {
-    "name": "Fine Motion",
-    "image": "images/characters/fine_motion.png",
-    "guide": "images/guides/fine_motion.webp"
-  },
-  {
-    "name": "Fuji Kiseki",
-    "image": "images/characters/fuji_kiseki.png",
-    "guide": "images/guides/fuji_kiseki.webp"
-  },
-  {
-    "name": "Fuji Kiseki (Ballroom)",
-    "image": "images/characters/fuji_kiseki_ballroom.png",
-    "guide": "images/guides/fuji_kiseki_ballroom.webp"
-  },
-  {
-    "name": "Gold City",
-    "image": "images/characters/gold_city.png",
-    "guide": "images/guides/gold_city.webp"
-  },
-  {
-    "name": "Gold City (Festival)",
-    "image": "images/characters/gold_city_festival.png",
-    "guide": "images/guides/gold_city_festival.webp"
-  },
-  {
-    "name": "Gold Ship",
-    "image": "images/characters/gold_ship.png",
-    "guide": "images/guides/gold_ship.webp"
-  },
-  {
-    "name": "Grass Wonder",
-    "image": "images/characters/grass_wonder.png",
-    "guide": "images/guides/grass_wonder.webp"
-  },
-  {
-    "name": "Grass Wonder (Fantasy)",
-    "image": "images/characters/grass_wonder_fantasy.png",
-    "guide": "images/guides/grass_wonder_fantasy.webp"
-  },
-  {
-    "name": "Haru Urara",
-    "image": "images/characters/haru_urara.png",
-    "guide": "images/guides/haru_urara.webp"
-  },
-  {
-    "name": "Haru Urara (New Year)",
-    "image": "images/characters/haru_urara_new_year.png",
-    "guide": "images/guides/haru_urara_new_year.webp"
-  },
-  {
-    "name": "Hishi Akebono",
-    "image": "images/characters/hishi_akebono.png",
-    "guide": "images/guides/hishi_akebono.webp"
-  },
-  {
-    "name": "Hishi Amazon",
-    "image": "images/characters/hishi_amazon.png",
-    "guide": "images/guides/hishi_amazon.webp"
-  },
-  {
-    "name": "Kawakami Princess",
-    "image": "images/characters/kawakami_princess.png",
-    "guide": "images/guides/kawakami_princess.webp"
-  },
-  {
-    "name": "King Halo",
-    "image": "images/characters/king_halo.png",
-    "guide": "images/guides/king_halo.webp"
-  },
-  {
-    "name": "Kitasan Black",
-    "image": "images/characters/kitasan_black.png",
-    "guide": "images/guides/kitasan_black.webp"
-  },
-  {
-    "name": "Manhattan Cafe",
-    "image": "images/characters/manhattan_cafe.png",
-    "guide": "images/guides/manhattan_cafe.webp"
-  },
-  {
-    "name": "Maruzensky",
-    "image": "images/characters/maruzensky.png",
-    "guide": "images/guides/maruzensky.webp"
-  },
-  {
-    "name": "Maruzensky (Summer)",
-    "image": "images/characters/maruzensky_summer.png",
-    "guide": "images/guides/maruzensky_summer.webp"
-  },
-  {
-    "name": "Matikanefukukitaru",
-    "image": "images/characters/matikanefukukitaru.png",
-    "guide": "images/guides/matikanefukukitaru.webp"
-  },
-  {
-    "name": "Matikanefukukitaru (Full Armor)",
-    "image": "images/characters/matikanefukukitaru_full_armor.png",
-    "guide": "images/guides/matikanefukukitaru_full_armor.webp"
-  },
-  {
-    "name": "Matikanetannhauser",
-    "image": "images/characters/matikanetannhauser.png",
-    "guide": "images/guides/matikanetannhauser.webp"
-  },
-  {
-    "name": "Mayano Top Gun",
-    "image": "images/characters/mayano_top_gun.png",
-    "guide": "images/guides/mayano_top_gun.webp"
-  },
-  {
-    "name": "Mayano Top Gun (Wedding)",
-    "image": "images/characters/mayano_top_gun_wedding.png",
-    "guide": "images/guides/mayano_top_gun_wedding.webp"
-  },
-  {
-    "name": "Meisho Doto",
-    "image": "images/characters/meisho_doto.png",
-    "guide": "images/guides/meisho_doto.webp"
-  },
-  {
-    "name": "Mejiro Ardan",
-    "image": "images/characters/mejiro_ardan.png",
-    "guide": "images/guides/mejiro_ardan.webp"
-  },
-  {
-    "name": "Mejiro Bright",
-    "image": "images/characters/mejiro_bright.png",
-    "guide": "images/guides/mejiro_bright.webp"
-  },
-  {
-    "name": "Mejiro Dober",
-    "image": "images/characters/mejiro_dober.png",
-    "guide": "images/guides/mejiro_dober.webp"
-  },
-  {
-    "name": "Mejiro McQueen",
-    "image": "images/characters/mejiro_mcqueen.png",
-    "guide": "images/guides/mejiro_mcqueen.webp"
-  },
-  {
-    "name": "Mejiro McQueen (Anime Collab)",
-    "image": "images/characters/mejiro_mcqueen_anime_collab.png",
-    "guide": "images/guides/mejiro_mcqueen_anime_collab.webp"
-  },
-  {
-    "name": "Mejiro Ryan",
-    "image": "images/characters/mejiro_ryan.png",
-    "guide": "images/guides/mejiro_ryan.webp"
-  },
-  {
-    "name": "Mihono Bourbon",
-    "image": "images/characters/mihono_bourbon.png",
-    "guide": "images/guides/mihono_bourbon.webp"
-  },
-  {
-    "name": "Mihono Bourbon (Valentine)",
-    "image": "images/characters/mihono_bourbon_valentine.png",
-    "guide": "images/guides/mihono_bourbon_valentine.webp"
-  },
-  {
-    "name": "Narita Brian",
-    "image": "images/characters/narita_brian.png",
-    "guide": "images/guides/narita_brian.webp"
-  },
-  {
-    "name": "Narita Taishin",
-    "image": "images/characters/narita_taishin.png",
-    "guide": "images/guides/narita_taishin.webp"
-  },
-  {
-    "name": "Nice Nature",
-    "image": "images/characters/nice_nature.png",
-    "guide": "images/guides/nice_nature.webp"
-  },
-  {
-    "name": "Nishino Flower",
-    "image": "images/characters/nishino_flower.png",
-    "guide": "images/guides/nishino_flower.webp"
-  },
-  {
-    "name": "Oguri Cap",
-    "image": "images/characters/oguri_cap.png",
-    "guide": "images/guides/oguri_cap.webp"
-  },
-  {
-    "name": "Oguri Cap (Christmas)",
-    "image": "images/characters/oguri_cap_christmas.png",
-    "guide": "images/guides/oguri_cap_christmas.webp"
-  },
-  {
-    "name": "Rice Shower",
-    "image": "images/characters/rice_shower.png",
-    "guide": "images/guides/rice_shower.webp"
-  },
-  {
-    "name": "Rice Shower (Halloween)",
-    "image": "images/characters/rice_shower_halloween.png",
-    "guide": "images/guides/rice_shower_halloween.webp"
-  },
-  {
-    "name": "Sakura Bakushin O",
-    "image": "images/characters/sakura_bakushin_o.png",
-    "guide": "images/guides/sakura_bakushin_o.webp"
-  },
-  {
-    "name": "Sakura Chiyono O",
-    "image": "images/characters/sakura_chiyono_o.png",
-    "guide": "images/guides/sakura_chiyono_o.webp"
-  },
-  {
-    "name": "Satono Diamond",
-    "image": "images/characters/satono_diamond.png",
-    "guide": "images/guides/satono_diamond.webp"
-  },
-  {
-    "name": "Seiun Sky",
-    "image": "images/characters/seiun_sky.png",
-    "guide": "images/guides/seiun_sky.webp"
-  },
-  {
-    "name": "Seiun Sky (Ballroom)",
-    "image": "images/characters/seiun_sky_ballroom.png",
-    "guide": "images/guides/seiun_sky_ballroom.webp"
-  },
-  {
-    "name": "Silence Suzuka",
-    "image": "images/characters/silence_suzuka.png",
-    "guide": "images/guides/silence_suzuka.webp"
-  },
-  {
-    "name": "Smart Falcon",
-    "image": "images/characters/smart_falcon.png",
-    "guide": "images/guides/smart_falcon.webp"
-  },
-  {
-    "name": "Special Week",
-    "image": "images/characters/special_week.png",
-    "guide": "images/guides/special_week.webp"
-  },
-  {
-    "name": "Special Week (Summer)",
-    "image": "images/characters/special_week_summer.png",
-    "guide": "images/guides/special_week_summer.webp"
-  },
-  {
-    "name": "Super Creek",
-    "image": "images/characters/super_creek.png",
-    "guide": "images/guides/super_creek.webp"
-  },
-  {
-    "name": "Super Creek (Halloween)",
-    "image": "images/characters/super_creek_halloween.png",
-    "guide": "images/guides/super_creek_halloween.webp"
-  },
-  {
-    "name": "Symboli Rudolf",
-    "image": "images/characters/symboli_rudolf.png",
-    "guide": "images/guides/symboli_rudolf.webp"
-  },
-  {
-    "name": "Symboli Rudolf (Festival)",
-    "image": "images/characters/symboli_rudolf_festival.png",
-    "guide": "images/guides/symboli_rudolf_festival.webp"
-  },
-  {
-    "name": "Taiki Shuttle",
-    "image": "images/characters/taiki_shuttle.png",
-    "guide": "images/guides/taiki_shuttle.webp"
-  },
-  {
-    "name": "Tamamo Cross",
-    "image": "images/characters/tamamo_cross.png",
-    "guide": "images/guides/tamamo_cross.webp"
-  },
-  {
-    "name": "TM Opera O",
-    "image": "images/characters/tm_opera_o.png",
-    "guide": "images/guides/tm_opera_o.webp"
-  },
-  {
-    "name": "TM Opera O (New Year)",
-    "image": "images/characters/tm_opera_o_new_year.png",
-    "guide": "images/guides/tm_opera_o_new_year.webp"
-  },
-  {
-    "name": "Tokai Teio",
-    "image": "images/characters/tokai_teio.png",
-    "guide": "images/guides/tokai_teio.webp"
-  },
-  {
-    "name": "Tokai Teio (Anime Collab)",
-    "image": "images/characters/tokai_teio_anime_collab.png",
-    "guide": "images/guides/tokai_teio_anime_collab.webp"
-  },
-  {
-    "name": "Tosen Jordan",
-    "image": "images/characters/tosen_jordan.png",
-    "guide": "images/guides/tosen_jordan.webp"
-  },
-  {
-    "name": "Vodka",
-    "image": "images/characters/vodka.png",
-    "guide": "images/guides/vodka.webp"
-  },
-  {
-    "name": "Winning Ticket",
-    "image": "images/characters/winning_ticket.png",
-    "guide": "images/guides/winning_ticket.webp"
-  }
+    {
+        "name": "Admire Vega",
+        "image": "images/characters/admire_vega.png",
+        "guide": "images/guides/admire_vega.webp"
+    },
+    {
+        "name": "Agnes Digital",
+        "image": "images/characters/agnes_digital.png",
+        "guide": "images/guides/agnes_digital.webp"
+    },
+    {
+        "name": "Agnes Tachyon",
+        "image": "images/characters/agnes_tachyon.png",
+        "guide": "images/guides/agnes_tachyon.webp"
+    },
+    {
+        "name": "Air Groove",
+        "image": "images/characters/air_groove.png",
+        "guide": "images/guides/air_groove.webp"
+    },
+    {
+        "name": "Air Groove (Wedding)",
+        "image": "images/characters/air_groove_wedding.png",
+        "guide": "images/guides/air_groove_wedding.webp"
+    },
+    {
+        "name": "Biwa Hayahide",
+        "image": "images/characters/biwa_hayahide.png",
+        "guide": "images/guides/biwa_hayahide.webp"
+    },
+    {
+        "name": "Biwa Hayahide (Christmas)",
+        "image": "images/characters/biwa_hayahide_christmas.png",
+        "guide": "images/guides/biwa_hayahide_christmas.webp"
+    },
+    {
+        "name": "Curren Chan",
+        "image": "images/characters/curren_chan.png",
+        "guide": "images/guides/curren_chan.webp"
+    },
+    {
+        "name": "Daiwa Scarlet",
+        "image": "images/characters/daiwa_scarlet.png",
+        "guide": "images/guides/daiwa_scarlet.webp"
+    },
+    {
+        "name": "Eishin Flash",
+        "image": "images/characters/eishin_flash.png",
+        "guide": "images/guides/eishin_flash.webp"
+    },
+    {
+        "name": "Eishin Flash (Valentine)",
+        "image": "images/characters/eishin_flash_valentine.png",
+        "guide": "images/guides/eishin_flash_valentine.webp"
+    },
+    {
+        "name": "El Condor Pasa",
+        "image": "images/characters/el_condor_pasa.png",
+        "guide": "images/guides/el_condor_pasa.webp"
+    },
+    {
+        "name": "El Condor Pasa (Fantasy)",
+        "image": "images/characters/el_condor_pasa_fantasy.png",
+        "guide": "images/guides/el_condor_pasa_fantasy.webp"
+    },
+    {
+        "name": "Fine Motion",
+        "image": "images/characters/fine_motion.png",
+        "guide": "images/guides/fine_motion.webp"
+    },
+    {
+        "name": "Fuji Kiseki",
+        "image": "images/characters/fuji_kiseki.png",
+        "guide": "images/guides/fuji_kiseki.webp"
+    },
+    {
+        "name": "Fuji Kiseki (Ballroom)",
+        "image": "images/characters/fuji_kiseki_ballroom.png",
+        "guide": "images/guides/fuji_kiseki_ballroom.webp"
+    },
+    {
+        "name": "Gold City",
+        "image": "images/characters/gold_city.png",
+        "guide": "images/guides/gold_city.webp"
+    },
+    {
+        "name": "Gold City (Festival)",
+        "image": "images/characters/gold_city_festival.png",
+        "guide": "images/guides/gold_city_festival.webp"
+    },
+    {
+        "name": "Gold Ship",
+        "image": "images/characters/gold_ship.png",
+        "guide": "images/guides/gold_ship.webp"
+    },
+    {
+        "name": "Grass Wonder",
+        "image": "images/characters/grass_wonder.png",
+        "guide": "images/guides/grass_wonder.webp"
+    },
+    {
+        "name": "Grass Wonder (Fantasy)",
+        "image": "images/characters/grass_wonder_fantasy.png",
+        "guide": "images/guides/grass_wonder_fantasy.webp"
+    },
+    {
+        "name": "Haru Urara",
+        "image": "images/characters/haru_urara.png",
+        "guide": "images/guides/haru_urara.webp"
+    },
+    {
+        "name": "Haru Urara (New Year)",
+        "image": "images/characters/haru_urara_new_year.png",
+        "guide": "images/guides/haru_urara_new_year.webp"
+    },
+    {
+        "name": "Hishi Akebono",
+        "image": "images/characters/hishi_akebono.png",
+        "guide": "images/guides/hishi_akebono.webp"
+    },
+    {
+        "name": "Hishi Amazon",
+        "image": "images/characters/hishi_amazon.png",
+        "guide": "images/guides/hishi_amazon.webp"
+    },
+    {
+        "name": "Kawakami Princess",
+        "image": "images/characters/kawakami_princess.png",
+        "guide": "images/guides/kawakami_princess.webp"
+    },
+    {
+        "name": "King Halo",
+        "image": "images/characters/king_halo.png",
+        "guide": "images/guides/king_halo.webp"
+    },
+    {
+        "name": "Kitasan Black",
+        "image": "images/characters/kitasan_black.png",
+        "guide": "images/guides/kitasan_black.webp"
+    },
+    {
+        "name": "Manhattan Cafe",
+        "image": "images/characters/manhattan_cafe.png",
+        "guide": "images/guides/manhattan_cafe.webp"
+    },
+    {
+        "name": "Maruzensky",
+        "image": "images/characters/maruzensky.png",
+        "guide": "images/guides/maruzensky.webp"
+    },
+    {
+        "name": "Maruzensky (Summer)",
+        "image": "images/characters/maruzensky_summer.png",
+        "guide": "images/guides/maruzensky_summer.webp"
+    },
+    {
+        "name": "Matikanefukukitaru",
+        "image": "images/characters/matikanefukukitaru.png",
+        "guide": "images/guides/matikanefukukitaru.webp"
+    },
+    {
+        "name": "Matikanefukukitaru (Full Armor)",
+        "image": "images/characters/matikanefukukitaru_full_armor.png",
+        "guide": "images/guides/matikanefukukitaru_full_armor.webp"
+    },
+    {
+        "name": "Matikanetannhauser",
+        "image": "images/characters/matikanetannhauser.png",
+        "guide": "images/guides/matikanetannhauser.webp"
+    },
+    {
+        "name": "Mayano Top Gun",
+        "image": "images/characters/mayano_top_gun.png",
+        "guide": "images/guides/mayano_top_gun.webp"
+    },
+    {
+        "name": "Mayano Top Gun (Wedding)",
+        "image": "images/characters/mayano_top_gun_wedding.png",
+        "guide": "images/guides/mayano_top_gun_wedding.webp"
+    },
+    {
+        "name": "Meisho Doto",
+        "image": "images/characters/meisho_doto.png",
+        "guide": "images/guides/meisho_doto.webp"
+    },
+    {
+        "name": "Mejiro Ardan",
+        "image": "images/characters/mejiro_ardan.png",
+        "guide": "images/guides/mejiro_ardan.webp"
+    },
+    {
+        "name": "Mejiro Bright",
+        "image": "images/characters/mejiro_bright.png",
+        "guide": "images/guides/mejiro_bright.webp"
+    },
+    {
+        "name": "Mejiro Dober",
+        "image": "images/characters/mejiro_dober.png",
+        "guide": "images/guides/mejiro_dober.webp"
+    },
+    {
+        "name": "Mejiro McQueen",
+        "image": "images/characters/mejiro_mcqueen.png",
+        "guide": "images/guides/mejiro_mcqueen.webp"
+    },
+    {
+        "name": "Mejiro McQueen (Anime Collab)",
+        "image": "images/characters/mejiro_mcqueen_anime_collab.png",
+        "guide": "images/guides/mejiro_mcqueen_anime_collab.webp"
+    },
+    {
+        "name": "Mejiro Ryan",
+        "image": "images/characters/mejiro_ryan.png",
+        "guide": "images/guides/mejiro_ryan.webp"
+    },
+    {
+        "name": "Mihono Bourbon",
+        "image": "images/characters/mihono_bourbon.png",
+        "guide": "images/guides/mihono_bourbon.webp"
+    },
+    {
+        "name": "Mihono Bourbon (Valentine)",
+        "image": "images/characters/mihono_bourbon_valentine.png",
+        "guide": "images/guides/mihono_bourbon_valentine.webp"
+    },
+    {
+        "name": "Narita Brian",
+        "image": "images/characters/narita_brian.png",
+        "guide": "images/guides/narita_brian.webp"
+    },
+    {
+        "name": "Narita Taishin",
+        "image": "images/characters/narita_taishin.png",
+        "guide": "images/guides/narita_taishin.webp"
+    },
+    {
+        "name": "Nice Nature",
+        "image": "images/characters/nice_nature.png",
+        "guide": "images/guides/nice_nature.webp"
+    },
+    {
+        "name": "Nishino Flower",
+        "image": "images/characters/nishino_flower.png",
+        "guide": "images/guides/nishino_flower.webp"
+    },
+    {
+        "name": "Oguri Cap",
+        "image": "images/characters/oguri_cap.png",
+        "guide": "images/guides/oguri_cap.webp"
+    },
+    {
+        "name": "Oguri Cap (Christmas)",
+        "image": "images/characters/oguri_cap_christmas.png",
+        "guide": "images/guides/oguri_cap_christmas.webp"
+    },
+    {
+        "name": "Rice Shower",
+        "image": "images/characters/rice_shower.png",
+        "guide": "images/guides/rice_shower.webp"
+    },
+    {
+        "name": "Rice Shower (Halloween)",
+        "image": "images/characters/rice_shower_halloween.png",
+        "guide": "images/guides/rice_shower_halloween.webp"
+    },
+    {
+        "name": "Sakura Bakushin O",
+        "image": "images/characters/sakura_bakushin_o.png",
+        "guide": "images/guides/sakura_bakushin_o.webp"
+    },
+    {
+        "name": "Sakura Chiyono O",
+        "image": "images/characters/sakura_chiyono_o.png",
+        "guide": "images/guides/sakura_chiyono_o.webp"
+    },
+    {
+        "name": "Satono Diamond",
+        "image": "images/characters/satono_diamond.png",
+        "guide": "images/guides/satono_diamond.webp"
+    },
+    {
+        "name": "Seiun Sky",
+        "image": "images/characters/seiun_sky.png",
+        "guide": "images/guides/seiun_sky.webp"
+    },
+    {
+        "name": "Seiun Sky (Ballroom)",
+        "image": "images/characters/seiun_sky_ballroom.png",
+        "guide": "images/guides/seiun_sky_ballroom.webp"
+    },
+    {
+        "name": "Silence Suzuka",
+        "image": "images/characters/silence_suzuka.png",
+        "guide": "images/guides/silence_suzuka.webp"
+    },
+    {
+        "name": "Smart Falcon",
+        "image": "images/characters/smart_falcon.png",
+        "guide": "images/guides/smart_falcon.webp"
+    },
+    {
+        "name": "Special Week",
+        "image": "images/characters/special_week.png",
+        "guide": "images/guides/special_week.webp"
+    },
+    {
+        "name": "Special Week (Summer)",
+        "image": "images/characters/special_week_summer.png",
+        "guide": "images/guides/special_week_summer.webp"
+    },
+    {
+        "name": "Super Creek",
+        "image": "images/characters/super_creek.png",
+        "guide": "images/guides/super_creek.webp"
+    },
+    {
+        "name": "Super Creek (Halloween)",
+        "image": "images/characters/super_creek_halloween.png",
+        "guide": "images/guides/super_creek_halloween.webp"
+    },
+    {
+        "name": "Symboli Rudolf",
+        "image": "images/characters/symboli_rudolf.png",
+        "guide": "images/guides/symboli_rudolf.webp"
+    },
+    {
+        "name": "Symboli Rudolf (Festival)",
+        "image": "images/characters/symboli_rudolf_festival.png",
+        "guide": "images/guides/symboli_rudolf_festival.webp"
+    },
+    {
+        "name": "Taiki Shuttle",
+        "image": "images/characters/taiki_shuttle.png",
+        "guide": "images/guides/taiki_shuttle.webp"
+    },
+    {
+        "name": "Tamamo Cross",
+        "image": "images/characters/tamamo_cross.png",
+        "guide": "images/guides/tamamo_cross.webp"
+    },
+    {
+        "name": "TM Opera O",
+        "image": "images/characters/tm_opera_o.png",
+        "guide": "images/guides/tm_opera_o.webp"
+    },
+    {
+        "name": "TM Opera O (New Year)",
+        "image": "images/characters/tm_opera_o_new_year.png",
+        "guide": "images/guides/tm_opera_o_new_year.webp"
+    },
+    {
+        "name": "Tokai Teio",
+        "image": "images/characters/tokai_teio.png",
+        "guide": "images/guides/tokai_teio.webp"
+    },
+    {
+        "name": "Tokai Teio (Anime Collab)",
+        "image": "images/characters/tokai_teio_anime_collab.png",
+        "guide": "images/guides/tokai_teio_anime_collab.webp"
+    },
+    {
+        "name": "Tosen Jordan",
+        "image": "images/characters/tosen_jordan.png",
+        "guide": "images/guides/tosen_jordan.webp"
+    },
+    {
+        "name": "Vodka",
+        "image": "images/characters/vodka.png",
+        "guide": "images/guides/vodka.webp"
+    },
+    {
+        "name": "Winning Ticket",
+        "image": "images/characters/winning_ticket.png",
+        "guide": "images/guides/winning_ticket.webp"
+    },
+    {
+        "name": "Yaeno Muteki",
+        "image": "images/characters/yaeno_muteki.png",
+        "guide": "images/guides/yaeno_muteki.webp"
+    }
 ]

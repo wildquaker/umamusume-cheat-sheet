@@ -1,364 +1,371 @@
 [
-  {
-    "Scenario": "URA Finale",
-    "builds": [
-      {
-        "Distance": "Sprint",
-        "build": [
-          {
-            "Cards": [
-              "Speed",
-              "Speed",
-              "Speed",
-              "Speed",
-              "Speed/Power",
-              "Power"
-            ],
-            "Inherit": "Wit and Some Stamina",
-            "Target Stats": {
-              "Speed": 1200,
-              "Stamina": 500,
-              "Power": 1200,
-              "Guts": 300,
-              "Wit": 500,
-              "Misc": ""
+    {
+        "Scenario": "URA Finale",
+        "builds": [
+            {
+                "Distance": "Sprint",
+                "build": [
+                    {
+                        "Cards": [
+                            "Speed",
+                            "Speed",
+                            "Speed",
+                            "Speed",
+                            "Speed/Power",
+                            "Power"
+                        ],
+                        "Inherit": "Wit and Some Stamina",
+                        "Target Stats": {
+                            "Speed": 1200,
+                            "Stamina": 500,
+                            "Power": 1200,
+                            "Guts": 300,
+                            "Wit": 500,
+                            "Misc": ""
+                        },
+                        "Note": "Sprint is the first distance you can start trying Wit cards in. If you have a +63 Power parent of your own, you can inherit full power and try 4 Speed 2 Wit for Team Trials, but raising the Stamina can be a bit hard. If you can't get 500 Stamina 900 Power, stick with Speed/Power."
+                    }
+                ]
             },
-            "Note": "Sprint is the first distance you can start trying Wit cards in. If you have a +63 Power parent of your own, you can inherit full power and try 4 Speed 2 Wit for Team Trials, but raising the Stamina can be a bit hard. If you can't get 500 Stamina 900 Power, stick with Speed/Power."
-          }
+            {
+                "Distance": "Mile/Dirt",
+                "build": [
+                    {
+                        "Cards": [
+                            "Speed",
+                            "Speed",
+                            "Speed",
+                            "Speed",
+                            "Speed/Power",
+                            "Power"
+                        ],
+                        "Inherit": "Stamina",
+                        "Target Stats": {
+                            "Speed": 1200,
+                            "Stamina": 800,
+                            "Power": 900,
+                            "Guts": 300,
+                            "Wit": 400,
+                            "Misc": ""
+                        },
+                        "Note": "You can also use a Stamina card instead and inherit Power, if you lack any good Power cards."
+                    },
+                    {
+                        "Cards": [
+                            "Speed",
+                            "Speed",
+                            "Speed",
+                            "Speed",
+                            "Speed/Power",
+                            "Power"
+                        ],
+                        "Inherit": "Stamina",
+                        "Target Stats": {
+                            "Speed": 1200,
+                            "Stamina": 600,
+                            "Power": 1000,
+                            "Guts": 300,
+                            "Wit": 400,
+                            "Misc": "+1 Golden Recovery Skill"
+                        },
+                        "Note": "You can also use a Stamina card instead and inherit Power, if you lack any good Power cards."
+                    }
+                ]
+            },
+            {
+                "Distance": "Medium",
+                "build": [
+                    {
+                        "Cards": [
+                            "Speed",
+                            "Speed",
+                            "Speed",
+                            "Speed",
+                            "Speed/Stamina",
+                            "Super Creek SSR Stamina Support Card"
+                        ],
+                        "Inherit": "Power",
+                        "Target Stats": {
+                            "Speed": 1200,
+                            "Stamina": 900,
+                            "Power": 800,
+                            "Guts": 300,
+                            "Wit": 400,
+                            "Misc": "+ Swinging Maestro"
+                        },
+                        "Note": "A full Stamina inherit along with the Vodka power card for a recovery might also work."
+                    }
+                ]
+            },
+            {
+                "Distance": "Long",
+                "build": [
+                    {
+                        "Cards": [
+                            "Speed",
+                            "Speed",
+                            "Speed/Stamina",
+                            "Speed/Stamina",
+                            "Stamina",
+                            "Super Creek SSR Stamina Support Card"
+                        ],
+                        "Inherit": "Power",
+                        "Target Stats": {
+                            "Speed": 900,
+                            "Stamina": 1200,
+                            "Power": 600,
+                            "Guts": 400,
+                            "Wit": 400,
+                            "Misc": "+2-3 Golden Recovery Skills"
+                        },
+                        "Note": "Iron Will doesn't count as a Golden Recovery Skill. Don't take it. Adrenaline Rush (from the Rice welfare) also does nothing on Global currently. The Mejiro McQueen card you get from the story is very useful here. That may seem extreme, but I can't stress enough, Stamina is more important than Speed. 1200 Speed 500 Stamina is 3 seconds (~30 lengths) slower than 500 Speed 1200 Stamina on Tennosho Spring (3200m). You lose so much speed when out of stamina. You can win Career with less, but your performance in PvP will be much worse."
+                    }
+                ]
+            }
         ]
-      },
-      {
-        "Distance": "Mile/Dirt",
-        "build": [
-          {
-            "Cards": [
-              "Speed",
-              "Speed",
-              "Speed",
-              "Speed",
-              "Speed/Power",
-              "Power"
-            ],
-            "Inherit": "Stamina",
-            "Target Stats": {
-              "Speed": 1200,
-              "Stamina": 800,
-              "Power": 900,
-              "Guts": 300,
-              "Wit": 400,
-              "Misc": ""
+    },
+    {
+        "Scenario": "Unity Cup",
+        "builds": [
+            {
+                "Distance": "Sprint",
+                "build": [
+                    {
+                        "Cards": [
+                            "Speed",
+                            "Speed",
+                            "Speed",
+                            "Speed",
+                            "Speed/Power",
+                            "Power"
+                        ],
+                        "Inherit": "Power",
+                        "Target Stats": {
+                            "Speed": 1200,
+                            "Stamina": 500,
+                            "Power": 1200,
+                            "Guts": 300,
+                            "Wit": 400,
+                            "Misc": ""
+                        },
+                        "Note": ""
+                    },
+                    {
+                        "Cards": ["Speed", "Speed", "Wit", "Wit", "Wit", "Wit"],
+                        "Inherit": "Power",
+                        "Target Stats": {
+                            "Speed": 1200,
+                            "Stamina": 500,
+                            "Power": 1000,
+                            "Guts": 300,
+                            "Wit": 1200,
+                            "Misc": ""
+                        },
+                        "Note": "Use this build when you have MLB Wit cards."
+                    }
+                ]
             },
-            "Note": "You can also use a Stamina card instead and inherit Power, if you lack any good Power cards."
-          },
-          {
-            "Cards": [
-              "Speed",
-              "Speed",
-              "Speed",
-              "Speed",
-              "Speed/Power",
-              "Power"
-            ],
-            "Inherit": "Stamina",
-            "Target Stats": {
-              "Speed": 1200,
-              "Stamina": 600,
-              "Power": 1000,
-              "Guts": 300,
-              "Wit": 400,
-              "Misc": "+1 Golden Recovery Skill"
+            {
+                "Distance": "Mile/Dirt",
+                "build": [
+                    {
+                        "Cards": [
+                            "Speed",
+                            "Speed",
+                            "Speed",
+                            "Speed",
+                            "Speed/Power",
+                            "Power"
+                        ],
+                        "Inherit": "Power and Some Stamina",
+                        "Target Stats": {
+                            "Speed": 1200,
+                            "Stamina": 700,
+                            "Power": 1100,
+                            "Guts": 300,
+                            "Wit": 400,
+                            "Misc": ""
+                        },
+                        "Note": ""
+                    },
+                    {
+                        "Cards": [
+                            "Speed",
+                            "Speed",
+                            "Speed",
+                            "Speed",
+                            "Speed/Power",
+                            "Power"
+                        ],
+                        "Inherit": "Power and Some Stamina",
+                        "Target Stats": {
+                            "Speed": 1200,
+                            "Stamina": 550,
+                            "Power": 1100,
+                            "Guts": 300,
+                            "Wit": 400,
+                            "Misc": "1 Golden Recovery Skill"
+                        },
+                        "Note": ""
+                    },
+                    {
+                        "Cards": ["Speed", "Speed", "Wit", "Wit", "Wit", "Wit"],
+                        "Inherit": "Power",
+                        "Target Stats": {
+                            "Speed": 1200,
+                            "Stamina": 700,
+                            "Power": 900,
+                            "Guts": 300,
+                            "Wit": 1200,
+                            "Misc": ""
+                        },
+                        "Note": "Use this build when you have MLB Wit cards."
+                    },
+                    {
+                        "Cards": ["Speed", "Speed", "Wit", "Wit", "Wit", "Wit"],
+                        "Inherit": "Power",
+                        "Target Stats": {
+                            "Speed": 1200,
+                            "Stamina": 550,
+                            "Power": 900,
+                            "Guts": 300,
+                            "Wit": 1200,
+                            "Misc": "1 Golden Recovery Skill"
+                        },
+                        "Note": "Use this build when you have MLB Wit cards."
+                    }
+                ]
             },
-            "Note": "You can also use a Stamina card instead and inherit Power, if you lack any good Power cards."
-          }
+            {
+                "Distance": "Medium",
+                "build": [
+                    {
+                        "Cards": [
+                            "Speed",
+                            "Speed",
+                            "Speed",
+                            "Speed/Power",
+                            "Power/Pal",
+                            "Rice Shower SSR Power Support Card"
+                        ],
+                        "Inherit": "Stamina",
+                        "Target Stats": {
+                            "Speed": 1200,
+                            "Stamina": 800,
+                            "Power": 1000,
+                            "Guts": 300,
+                            "Wit": 400,
+                            "Misc": "1 Golden Recovery Skill"
+                        },
+                        "Note": ""
+                    },
+                    {
+                        "Cards": [
+                            "Speed",
+                            "Speed",
+                            "Speed",
+                            "Speed/Stamina",
+                            "Stamina/Pal",
+                            "Super Creek SSR Stamina Support Card"
+                        ],
+                        "Inherit": "Power and/or Stamina",
+                        "Target Stats": {
+                            "Speed": 1200,
+                            "Stamina": 800,
+                            "Power": 800,
+                            "Guts": 300,
+                            "Wit": 400,
+                            "Misc": "1 Golden Recovery Skill"
+                        },
+                        "Note": ""
+                    },
+                    {
+                        "Cards": [
+                            "Speed",
+                            "Speed",
+                            "Speed/Pal",
+                            "Wit",
+                            "Wit",
+                            "Wit"
+                        ],
+                        "Inherit": "Based on cards",
+                        "Target Stats": {
+                            "Speed": 1200,
+                            "Stamina": "500-600",
+                            "Power": 800,
+                            "Guts": 300,
+                            "Wit": 1000,
+                            "Misc": "2 Golden Recovery Skills"
+                        },
+                        "Note": "This build is best done on umas that have a recovery built in, such as Mayano Top Gun. It's mainly for Team Trials where scoring is important. You can include a recovery-granting Speed or Wit card when they release, which would be Christmas Mayano Speed for Fronts, Special Week Speed for Paces, Halloween Zenno Rob Roy Speed for Lates, and Narita Taishin Wit for Ends. The Fuku Wit SR is very good here, as the scenario link gives a consistent gold for Medium Team Trials."
+                    }
+                ]
+            },
+            {
+                "Distance": "Long",
+                "build": [
+                    {
+                        "Cards": [
+                            "Speed",
+                            "Speed",
+                            "Speed/Power",
+                            "Speed/Pal",
+                            "Riko Kashimoto SSR Pal Support Card",
+                            "Rice Shower SSR Power Support Card"
+                        ],
+                        "Inherit": "Stamina",
+                        "Target Stats": {
+                            "Speed": 1200,
+                            "Stamina": 900,
+                            "Power": 1000,
+                            "Guts": 400,
+                            "Wit": 400,
+                            "Misc": "2 Golden Recovery Skills"
+                        },
+                        "Note": "This build must be done in Unity Cup, as Rice gives two Gold Recoveries in that mode. Rare Riko works if you don't have the SSR version, her Rare is very strong."
+                    },
+                    {
+                        "Cards": [
+                            "Speed",
+                            "Speed",
+                            "Speed",
+                            "Speed/Stamina",
+                            "Mejiro McQueen SSR Stamina Support Card",
+                            "Super Creek SSR Stamina Support Card"
+                        ],
+                        "Inherit": "Power and/or Stamina",
+                        "Target Stats": {
+                            "Speed": 1200,
+                            "Stamina": 900,
+                            "Power": 700,
+                            "Guts": 400,
+                            "Wit": 400,
+                            "Misc": "2 Golden Recovery Skills"
+                        },
+                        "Note": "Use this if you don't have Rice or can't reach the Stamina goal while using her."
+                    },
+                    {
+                        "Cards": [
+                            "Speed",
+                            "Speed/Pal",
+                            "Wit",
+                            "Wit",
+                            "Wit",
+                            "Rice Shower SSR Power Support Card"
+                        ],
+                        "Inherit": "Based on cards",
+                        "Target Stats": {
+                            "Speed": 1000,
+                            "Stamina": 600,
+                            "Power": 800,
+                            "Guts": 300,
+                            "Wit": 1000,
+                            "Misc": "3-4 Golden Recovery Skills"
+                        },
+                        "Note": "This build is best done on umas that have two recoveries built in, such as Agnes Tachyon. It's mainly for Team Trials where scoring is important. You can include a recovery-granting Speed or Wit card when they release, which would be Christmas Mayano Speed for Fronts, Special Week Speed for Paces, Halloween Zenno Rob Roy Speed for Lates, and Narita Taishin Wit for Ends. Particularly recovery-heavy umas can even drop Rice from the build."
+                    }
+                ]
+            }
         ]
-      },
-      {
-        "Distance": "Medium",
-        "build": [
-          {
-            "Cards": [
-              "Speed",
-              "Speed",
-              "Speed",
-              "Speed",
-              "Speed/Stamina",
-              "Super Creek SSR Stamina Support Card"
-            ],
-            "Inherit": "Power",
-            "Target Stats": {
-              "Speed": 1200,
-              "Stamina": 900,
-              "Power": 800,
-              "Guts": 300,
-              "Wit": 400,
-              "Misc": "+ Swinging Maestro"
-            },
-            "Note": "A full Stamina inherit along with the Vodka power card for a recovery might also work."
-          }
-        ]
-      },
-      {
-        "Distance": "Long",
-        "build": [
-          {
-            "Cards": [
-              "Speed",
-              "Speed",
-              "Speed/Stamina",
-              "Speed/Stamina",
-              "Stamina",
-              "Super Creek SSR Stamina Support Card"
-            ],
-            "Inherit": "Power",
-            "Target Stats": {
-              "Speed": 900,
-              "Stamina": 1200,
-              "Power": 600,
-              "Guts": 400,
-              "Wit": 400,
-              "Misc": "+2-3 Golden Recovery Skills"
-            },
-            "Note": "Iron Will doesn't count as a Golden Recovery Skill. Don't take it. Adrenaline Rush (from the Rice welfare) also does nothing on Global currently. The Mejiro McQueen card you get from the story is very useful here. That may seem extreme, but I can't stress enough, Stamina is more important than Speed. 1200 Speed 500 Stamina is 3 seconds (~30 lengths) slower than 500 Speed 1200 Stamina on Tennosho Spring (3200m). You lose so much speed when out of stamina. You can win Career with less, but your performance in PvP will be much worse."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "Scenario": "Unity Cup",
-    "builds": [
-      {
-        "Distance": "Sprint",
-        "build": [
-          {
-            "Cards": [
-              "Speed",
-              "Speed",
-              "Speed",
-              "Speed",
-              "Speed/Power",
-              "Power"
-            ],
-            "Inherit": "Power",
-            "Target Stats": {
-              "Speed": 1200,
-              "Stamina": 500,
-              "Power": 1200,
-              "Guts": 300,
-              "Wit": 400,
-              "Misc": ""
-            },
-            "Note": ""
-          },
-          {
-            "Cards": ["Speed", "Speed", "Wit", "Wit", "Wit", "Wit"],
-            "Inherit": "Power",
-            "Target Stats": {
-              "Speed": 1200,
-              "Stamina": 500,
-              "Power": 1000,
-              "Guts": 300,
-              "Wit": 1200,
-              "Misc": ""
-            },
-            "Note": "Use this build when you have MLB Wit cards."
-          }
-        ]
-      },
-      {
-        "Distance": "Mile/Dirt",
-        "build": [
-          {
-            "Cards": [
-              "Speed",
-              "Speed",
-              "Speed",
-              "Speed",
-              "Speed/Power",
-              "Power"
-            ],
-            "Inherit": "Power and Some Stamina",
-            "Target Stats": {
-              "Speed": 1200,
-              "Stamina": 700,
-              "Power": 1100,
-              "Guts": 300,
-              "Wit": 400,
-              "Misc": ""
-            },
-            "Note": ""
-          },
-          {
-            "Cards": [
-              "Speed",
-              "Speed",
-              "Speed",
-              "Speed",
-              "Speed/Power",
-              "Power"
-            ],
-            "Inherit": "Power and Some Stamina",
-            "Target Stats": {
-              "Speed": 1200,
-              "Stamina": 550,
-              "Power": 1100,
-              "Guts": 300,
-              "Wit": 400,
-              "Misc": "1 Golden Recovery Skill"
-            },
-            "Note": ""
-          },
-          {
-            "Cards": ["Speed", "Speed", "Wit", "Wit", "Wit", "Wit"],
-            "Inherit": "Power",
-            "Target Stats": {
-              "Speed": 1200,
-              "Stamina": 700,
-              "Power": 900,
-              "Guts": 300,
-              "Wit": 1200,
-              "Misc": ""
-            },
-            "Note": "Use this build when you have MLB Wit cards."
-          },
-          {
-            "Cards": ["Speed", "Speed", "Wit", "Wit", "Wit", "Wit"],
-            "Inherit": "Power",
-            "Target Stats": {
-              "Speed": 1200,
-              "Stamina": 550,
-              "Power": 900,
-              "Guts": 300,
-              "Wit": 1200,
-              "Misc": "1 Golden Recovery Skill"
-            },
-            "Note": "Use this build when you have MLB Wit cards."
-          }
-        ]
-      },
-      {
-        "Distance": "Medium",
-        "build": [
-          {
-            "Cards": [
-              "Speed",
-              "Speed",
-              "Speed",
-              "Speed/Power",
-              "Power/Pal",
-              "Rice Shower SSR Power Support Card"
-            ],
-            "Inherit": "Stamina",
-            "Target Stats": {
-              "Speed": 1200,
-              "Stamina": 800,
-              "Power": 1000,
-              "Guts": 300,
-              "Wit": 400,
-              "Misc": "1 Golden Recovery Skill"
-            },
-            "Note": ""
-          },
-          {
-            "Cards": [
-              "Speed",
-              "Speed",
-              "Speed",
-              "Speed/Stamina",
-              "Stamina/Pal",
-              "Super Creek SSR Stamina Support Card"
-            ],
-            "Inherit": "Power and/or Stamina",
-            "Target Stats": {
-              "Speed": 1200,
-              "Stamina": 800,
-              "Power": 800,
-              "Guts": 300,
-              "Wit": 400,
-              "Misc": "1 Golden Recovery Skill"
-            },
-            "Note": ""
-          },
-          {
-            "Cards": ["Speed", "Speed", "Speed/Pal", "Wit", "Wit", "Wit"],
-            "Inherit": "Based on cards",
-            "Target Stats": {
-              "Speed": 1200,
-              "Stamina": "500-600",
-              "Power": 800,
-              "Guts": 300,
-              "Wit": 1000,
-              "Misc": "2 Golden Recovery Skills"
-            },
-            "Note": "This build is best done on umas that have a recovery built in, such as Mayano Top Gun. It's mainly for Team Trials where scoring is important. You can include a recovery-granting Speed or Wit card when they release, which would be Christmas Mayano Speed for Fronts, Special Week Speed for Paces, Halloween Zenno Rob Roy Speed for Lates, and Narita Taishin Wit for Ends. The Fuku Wit SR is very good here, as the scenario link gives a consistent gold for Medium Team Trials."
-          }
-        ]
-      },
-      {
-        "Distance": "Long",
-        "build": [
-          {
-            "Cards": [
-              "Speed",
-              "Speed",
-              "Speed/Power",
-              "Speed/Pal",
-              "Riko Kashimoto SSR Pal Support Card",
-              "Rice Shower SSR Power Support Card"
-            ],
-            "Inherit": "Stamina",
-            "Target Stats": {
-              "Speed": 1200,
-              "Stamina": 900,
-              "Power": 1000,
-              "Guts": 400,
-              "Wit": 400,
-              "Misc": "2 Golden Recovery Skills"
-            },
-            "Note": "This build must be done in Unity Cup, as Rice gives two Gold Recoveries in that mode. Rare Riko works if you don't have the SSR version, her Rare is very strong."
-          },
-          {
-            "Cards": [
-              "Speed",
-              "Speed",
-              "Speed",
-              "Speed/Stamina",
-              "Mejiro McQueen SSR Stamina Support Card",
-              "Super Creek SSR Stamina Support Card"
-            ],
-            "Inherit": "Power and/or Stamina",
-            "Target Stats": {
-              "Speed": 1200,
-              "Stamina": 900,
-              "Power": 700,
-              "Guts": 400,
-              "Wit": 400,
-              "Misc": "2 Golden Recovery Skills"
-            },
-            "Note": "Use this if you don't have Rice or can't reach the Stamina goal while using her."
-          },
-          {
-            "Cards": [
-              "Speed",
-              "Speed/Pal",
-              "Wit",
-              "Wit",
-              "Wit",
-              "Rice Shower SSR Power Support Card"
-            ],
-            "Inherit": "Based on cards",
-            "Target Stats": {
-              "Speed": 1000,
-              "Stamina": 600,
-              "Power": 800,
-              "Guts": 300,
-              "Wit": 1000,
-              "Misc": "3-4 Golden Recovery Skills"
-            },
-            "Note": "This build is best done on umas that have two recoveries built in, such as Agnes Tachyon. It's mainly for Team Trials where scoring is important. You can include a recovery-granting Speed or Wit card when they release, which would be Christmas Mayano Speed for Fronts, Special Week Speed for Paces, Halloween Zenno Rob Roy Speed for Lates, and Narita Taishin Wit for Ends. Particularly recovery-heavy umas can even drop Rice from the build."
-          }
-        ]
-      }
-    ]
-  }
+    }
 ]
