@@ -373,5 +373,10 @@
         "name": "Winning Ticket",
         "image": "images/characters/winning_ticket.png",
         "guide": "images/guides/winning_ticket.webp"
+    },
+    {
+        "name": "Yaeno Muteki",
+        "image": "images/characters/yaeno_muteki.png",
+        "guide": "images/guides/yaeno_muteki.webp"
     }
 ]
