@@ -25,6 +25,9 @@
     "eslint": "^10",
     "eslint-config-next": "16.2.4",
     "tailwindcss": "^4",
-    "typescript": "^6"
+    "typescript": "^6",
+    "postcss": "^8",
+    "picomatch": "^4",
+    "brace-expansion": "^5"
   }
 }

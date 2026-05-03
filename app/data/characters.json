@@ -125,6 +125,11 @@
         "guide": "images/guides/hishi_amazon.webp"
     },
     {
+        "name": "Ines Fujin",
+        "image": "images/characters/ines_fujin.png",
+        "guide": "images/guides/ines_fujin.webp"
+    },
+    {
         "name": "Kawakami Princess",
         "image": "images/characters/kawakami_princess.png",
         "guide": "images/guides/kawakami_princess.webp"
@@ -133,6 +138,11 @@
         "name": "King Halo",
         "image": "images/characters/king_halo.png",
         "guide": "images/guides/king_halo.webp"
+    },
+    {
+        "name": "King Halo (Cheerleader)",
+        "image": "images/characters/king_halo_cheerleader.png",
+        "guide": "images/guides/king_halo_cheerleader.webp"
     },
     {
         "name": "Kitasan Black",
@@ -238,6 +248,11 @@
         "name": "Nice Nature",
         "image": "images/characters/nice_nature.png",
         "guide": "images/guides/nice_nature.webp"
+    },
+    {
+        "name": "Nice Nature (Cheerleader)",
+        "image": "images/characters/nice_nature_cheerleader.png",
+        "guide": "images/guides/nice_nature_cheerleader.webp"
     },
     {
         "name": "Nishino Flower",
