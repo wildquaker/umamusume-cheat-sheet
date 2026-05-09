@@ -24,7 +24,7 @@ A comprehensive web-based guide for **Uma Musume Pretty Derby**, helping trainer
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) 25+
+- [Node.js](https://nodejs.org/) 26+
 - [pnpm](https://pnpm.io/)
 
 ### Installation
@@ -91,7 +91,8 @@ docker compose up -d --build
 ├── public/              # Static assets (favicons, images, sitemap)
 ├── .github/workflows/   # CI/CD pipeline
 ├── docker-compose.yml
-└── package.json
+├── package.json
+└── pnpm-workspace.yaml
 ```
 
 ## Data
