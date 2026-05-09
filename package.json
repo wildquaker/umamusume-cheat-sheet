@@ -29,11 +29,5 @@
         "postcss": "^8",
         "picomatch": "^4",
         "brace-expansion": "^5"
-    },
-    "pnpm": {
-        "onlyBuiltDependencies": [
-            "sharp",
-            "unrs-resolver"
-        ]
     }
 }
