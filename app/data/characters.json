@@ -220,6 +220,11 @@
         "guide": "images/guides/mejiro_mcqueen_anime_collab.webp"
     },
     {
+        "name": "Mejiro Palmer",
+        "image": "images/characters/mejiro_palmer.png",
+        "guide": "images/guides/mejiro_palmer.webp"
+    },
+    {
         "name": "Mejiro Ryan",
         "image": "images/characters/mejiro_ryan.png",
         "guide": "images/guides/mejiro_ryan.webp"
