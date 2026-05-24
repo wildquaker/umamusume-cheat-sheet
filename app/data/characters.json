@@ -40,6 +40,11 @@
         "guide": "images/guides/curren_chan.webp"
     },
     {
+        "name": "Curren Chan (Wedding)",
+        "image": "images/characters/curren_chan_wedding.png",
+        "guide": "images/guides/curren_chan_wedding.webp"
+    },
+    {
         "name": "Daiwa Scarlet",
         "image": "images/characters/daiwa_scarlet.png",
         "guide": "images/guides/daiwa_scarlet.webp"
@@ -68,6 +73,11 @@
         "name": "Fine Motion",
         "image": "images/characters/fine_motion.png",
         "guide": "images/guides/fine_motion.webp"
+    },
+    {
+        "name": "Fine Motio (Wedding)",
+        "image": "images/characters/fine_motion_wedding.png",
+        "guide": "images/guides/fine_motion_wedding.webp"
     },
     {
         "name": "Fuji Kiseki",
