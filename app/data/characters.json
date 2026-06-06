@@ -135,6 +135,11 @@
         "guide": "images/guides/hishi_amazon.webp"
     },
     {
+        "name": "Inari One",
+        "image": "images/characters/inari_one.png",
+        "guide": "images/guides/inari_one.webp"
+    },
+    {
         "name": "Ines Fujin",
         "image": "images/characters/ines_fujin.png",
         "guide": "images/guides/ines_fujin.webp"
@@ -348,6 +353,11 @@
         "name": "Super Creek (Halloween)",
         "image": "images/characters/super_creek_halloween.png",
         "guide": "images/guides/super_creek_halloween.webp"
+    },
+    {
+        "name": "Sweep Tosho",
+        "image": "images/characters/sweep_tosho.png",
+        "guide": "images/guides/sweep_tosho.webp"
     },
     {
         "name": "Symboli Rudolf",
