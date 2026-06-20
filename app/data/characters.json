@@ -25,6 +25,11 @@
         "guide": "images/guides/air_groove_wedding.webp"
     },
     {
+        "name": "Air Shakur",
+        "image": "images/characters/air_shakur.png",
+        "guide": "images/guides/air_shakur.webp"
+    },
+    {
         "name": "Biwa Hayahide",
         "image": "images/characters/biwa_hayahide.png",
         "guide": "images/guides/biwa_hayahide.webp"
@@ -225,6 +230,11 @@
         "guide": "images/guides/mejiro_dober.webp"
     },
     {
+        "name": "Mejiro Dober (Camping)",
+        "image": "images/characters/mejiro_dober_camping.png",
+        "guide": "images/guides/mejiro_dober_camping.webp"
+    },
+    {
         "name": "Mejiro McQueen",
         "image": "images/characters/mejiro_mcqueen.png",
         "guide": "images/guides/mejiro_mcqueen.webp"
@@ -373,6 +383,11 @@
         "name": "Taiki Shuttle",
         "image": "images/characters/taiki_shuttle.png",
         "guide": "images/guides/taiki_shuttle.webp"
+    },
+    {
+        "name": "Taiki Shuttle (Camping)",
+        "image": "images/characters/taiki_shuttle_camping.png",
+        "guide": "images/guides/taiki_shuttle_camping.webp"
     },
     {
         "name": "Tamamo Cross",
