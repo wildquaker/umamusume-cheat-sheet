@@ -110,6 +110,11 @@
         "guide": "images/guides/gold_ship.webp"
     },
     {
+        "name": "Gold Ship (Summer)",
+        "image": "images/characters/gold_ship_summer.png",
+        "guide": "images/guides/gold_ship_summer.webp"
+    },
+    {
         "name": "Grass Wonder",
         "image": "images/characters/grass_wonder.png",
         "guide": "images/guides/grass_wonder.webp"
@@ -243,6 +248,11 @@
         "name": "Mejiro McQueen (Anime Collab)",
         "image": "images/characters/mejiro_mcqueen_anime_collab.png",
         "guide": "images/guides/mejiro_mcqueen_anime_collab.webp"
+    },
+    {
+        "name": "Mejiro McQueen (Summer)",
+        "image": "images/characters/mejiro_mcqueen_summer.png",
+        "guide": "images/guides/mejiro_mcqueen_summer.webp"
     },
     {
         "name": "Mejiro Palmer",
