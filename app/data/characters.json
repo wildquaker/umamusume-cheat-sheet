@@ -30,6 +30,11 @@
         "guide": "images/guides/air_shakur.webp"
     },
     {
+        "name": "Bamboo Memory",
+        "image": "images/characters/bamboo_memory.png",
+        "guide": "images/guides/bamboo_memory.webp"
+    },
+    {
         "name": "Biwa Hayahide",
         "image": "images/characters/biwa_hayahide.png",
         "guide": "images/guides/biwa_hayahide.webp"
