@@ -45,6 +45,11 @@
         "guide": "images/guides/biwa_hayahide_christmas.webp"
     },
     {
+        "name": "Copano Rickey",
+        "image": "images/characters/copano_rickey.png",
+        "guide": "images/guides/copano_rickey.webp"
+    },
+    {
         "name": "Curren Chan",
         "image": "images/characters/curren_chan.png",
         "guide": "images/guides/curren_chan.webp"
@@ -290,6 +295,11 @@
         "guide": "images/guides/narita_taishin.webp"
     },
     {
+        "name": "Narita Taishin (Steampunk)",
+        "image": "images/characters/narita_taishin_steampunk.png",
+        "guide": "images/guides/narita_taishin_steampunk.webp"
+    },
+    {
         "name": "Nice Nature",
         "image": "images/characters/nice_nature.png",
         "guide": "images/guides/nice_nature.webp"
@@ -358,6 +368,11 @@
         "name": "Smart Falcon",
         "image": "images/characters/smart_falcon.png",
         "guide": "images/guides/smart_falcon.webp"
+    },
+    {
+        "name": "Smart Falcon (Grand Concert)",
+        "image": "images/characters/smart_falcon_grand_concert.png",
+        "guide": "images/guides/smart_falcon_grand_concert.webp"
     },
     {
         "name": "Special Week",
@@ -443,6 +458,11 @@
         "name": "Winning Ticket",
         "image": "images/characters/winning_ticket.png",
         "guide": "images/guides/winning_ticket.webp"
+    },
+    {
+        "name": "Winning Ticket (Steampunk)",
+        "image": "images/characters/winning_ticket_steampunk.png",
+        "guide": "images/guides/winning_ticket_steampunk.webp"
     },
     {
         "name": "Yaeno Muteki",
