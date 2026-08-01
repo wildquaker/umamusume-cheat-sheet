@@ -9,10 +9,7 @@
         "lint": "eslint"
     },
     "dependencies": {
-        "brace-expansion": "^5",
-        "flatted": "^3",
         "next": "^16",
-        "picomatch": "^4",
         "react": "^19",
         "react-dom": "19"
     },
@@ -22,12 +19,13 @@
         "@types/react": "^19",
         "@types/react-dom": "^19",
         "babel-plugin-react-compiler": "^1.0.0",
+        "brace-expansion": "^5",
         "eslint": "^10",
         "eslint-config-next": "^16",
-        "tailwindcss": "^4",
-        "typescript": "^6",
-        "postcss": "^8",
+        "flatted": "^3",
         "picomatch": "^4",
-        "brace-expansion": "^5"
+        "postcss": "^8",
+        "tailwindcss": "^4",
+        "typescript": "^6"
     }
 }
