@@ -1,5 +1,5 @@
 # Dependencies
-FROM node:26.5-alpine3.23 AS deps
+FROM node:26.8-alpine3.23 AS deps
 WORKDIR /app
 
 RUN npm install -g pnpm
@@ -8,7 +8,7 @@ COPY package.json pnpm-lock.yaml* pnpm-workspace.yaml* ./
 RUN pnpm install --frozen-lockfile
 
 # Builder
-FROM node:26.5-alpine3.23 AS builder
+FROM node:26.8-alpine3.23 AS builder
 WORKDIR /app
 
 RUN npm install -g pnpm
@@ -18,7 +18,7 @@ COPY --from=deps /app/node_modules ./node_modules
 RUN pnpm run build
 
 # Runner
-FROM node:26.5-alpine3.23 AS runner
+FROM node:26.8-alpine3.23 AS runner
 WORKDIR /app
 ENV NODE_ENV=production
 ENV PORT=3000
