@@ -23,6 +23,7 @@
         "eslint": "^10",
         "eslint-config-next": "^16",
         "flatted": "^3",
+        "minimatch": "^11",
         "picomatch": "^4",
         "postcss": "^8",
         "sharp": "latest",
