@@ -39,7 +39,7 @@ pnpm install
 pnpm dev
 ```
 
-The app will be available at [http://localhost:3000](http://localhost:3000).
+The app will be available at [http://localhost:3001](http://localhost:3001).
 
 ### Build
 
@@ -61,8 +61,8 @@ The production stack uses Docker Compose with two services:
 
 | Service | Description |
 |---|---|
-| `umamusume-app` | Next.js standalone server (port 3000) |
-| `umamusume-nginx` | Nginx reverse proxy (port 80 → 3000) |
+| `umamusume-app` | Next.js standalone server (port 3001) |
+| `umamusume-nginx` | Nginx reverse proxy (port 80 → 3001) |
 
 To deploy manually:
 

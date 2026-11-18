@@ -21,14 +21,14 @@ RUN pnpm run build
 FROM node:26-alpine AS runner
 WORKDIR /app
 ENV NODE_ENV=production
-ENV PORT=3000
+ENV PORT=3001
 
 COPY --from=builder /app/public ./public
 COPY --from=builder /app/.next/standalone ./
 COPY --from=builder /app/.next/static ./.next/static
 COPY --from=builder /app/app/data ./app/data
 
-EXPOSE 3000
+EXPOSE 3001
 
 ENV HOSTNAME="0.0.0.0"
 CMD ["node", "server.js"]
